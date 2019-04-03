@@ -61,6 +61,12 @@ public class EnemyCollisionAction : MonoBehaviour
             isHit = true;
             triggerAnim = true;
         }
+        if(collision.gameObject.tag == "InfectedStudent_Attack")
+        {
+            isHit = true;
+            triggerAnim = true;
+            GameController.instance.lifeValue -= 25;
+        }
     }
 
     private void damageTakenFlash(float lvl, bool down)

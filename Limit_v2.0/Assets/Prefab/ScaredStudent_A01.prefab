@@ -145,6 +145,17 @@ MonoBehaviour:
   minTimeSwitch: 0
   maxTimeSwitch: 3
   runningSpeed: 3
+  followDetection: {fileID: 4642073803779892715, guid: d3a70e7ca5942834fad52029121a3159,
+    type: 3}
+  attackDetection: {fileID: 1809557760565990249, guid: 78d1cbd6e9276d940b0b7dcdd8b8eecc,
+    type: 3}
+  attackVinesObj: {fileID: 4627593848142502113, guid: 24e8a9eb5e7e9e6468ac931668965aa9,
+    type: 3}
+  infectWaitTime: 1
+  infectFinishAnimTime: 10
+  attackChargeTime: 1
+  attackWaitTime: 0.5
+  actualAttackTime: 4
 --- !u!95 &4715447781333036808
 Animator:
   serializedVersion: 3

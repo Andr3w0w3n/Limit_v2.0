@@ -19,6 +19,8 @@ public class GameController : MonoBehaviour
     public bool timeSlowActive = false;
     public float meteorCollisionSpeed = 1;
 
+    public Transform playerPos;
+
     //awake method
     void Awake()
     {
