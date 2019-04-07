@@ -21,6 +21,8 @@ public class PlayerMove : MonoBehaviour
     private float lastYPos;
     private float lastXPos;
 
+    private bool isInAir;
+
     public Ghost ghost;
     // Start is called before the first frame update
     void Start()
@@ -51,6 +53,15 @@ public class PlayerMove : MonoBehaviour
         
         if (!(animate.GetCurrentAnimatorStateInfo(0).IsName("Damage")))
         {
+            if (isInAir)
+            {
+                if (lastYPos > transform.position.y)
+                {
+
+                    isInAir = false;
+                    animate.SetBool("isJumping", false);
+                }
+            }
             //check to see if sprinting
             if (Input.GetKey(KeyCode.LeftShift) && GameController.instance.stanimaValue > 0)
             {
@@ -92,6 +103,8 @@ public class PlayerMove : MonoBehaviour
             }
             if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
             {
+                isInAir = true;
+                animate.SetBool("isJumping", true);
                 rb2d.AddForce(jump);
                 isOnGround = false;
             }

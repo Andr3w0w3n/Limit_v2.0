@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemies\MeteorBehavior.cs" />
-    <Compile Include="Assets\Scripts\Enemies\MeteorDetector.cs" />
     <Compile Include="Assets\Scripts\Enemies\ScaredStudentEnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Viewfinder.cs" />
     <Compile Include="Assets\Scripts\Enviroment\CameraFollow.cs" />
@@ -73,7 +72,9 @@
     <Compile Include="Assets\Scripts\Enviroment\SlimeBehavior.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Player\EnemyCollisionAction.cs" />
+    <Compile Include="Assets\Scripts\Player\ExclimationBehavior.cs" />
     <Compile Include="Assets\Scripts\Player\Ghost.cs" />
+    <Compile Include="Assets\Scripts\Player\MeteorDetector.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\QTE\QTE.cs" />
     <Compile Include="Assets\Scripts\ScaredStudentCollectable.cs" />

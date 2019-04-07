@@ -17,6 +17,15 @@ public class MeteorBehavior : MonoBehaviour
 
     public Sprite meteorSprite;
     public GameObject toxic;
+
+    //old exclimation variables
+    /*
+    public GameObject exlimation;
+    private bool activeWarning = false;
+    public ExclimationBehavior warningScript;
+    private GameObject exlimationObject;
+    */
+
     // Start is called before the first frame update
     void Start()
     {
@@ -43,12 +52,27 @@ public class MeteorBehavior : MonoBehaviour
     {
         if(transform.position.y <= deleteYPosition || transform.position.x <= deleteXPositionOne || transform.position.x >= deleteXPositionTwo)
         {
+            //old destroy function for exclimation stuff
+            //Destroy(exlimationObject);
+
             Object.Destroy(gameObject);
         }
     }
     void FixedUpdate()
     {
         rigidBody2Dee.velocity = movementVec*GameController.instance.speed;
+
+        //old meteor detection stuff
+        /*
+        if (transform.position.x <= GameController.instance.cameraPos.position.x + 10 && !activeWarning) 
+        {
+            exlimationObject = Instantiate(exlimation, transform.position, Quaternion.identity);
+            activeWarning = true;
+        }else if (activeWarning)
+        {
+            warningScript.meteorXPos = transform.position.x;
+            warningScript.meteorYPos = transform.position.y;
+        }*/
     }
     private float trigMaths(float x, float y)
     {

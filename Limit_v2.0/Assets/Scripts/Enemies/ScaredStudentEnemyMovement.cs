@@ -198,7 +198,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
             if (!executeAttack)
             {
                 attackFunctionsTimer += Time.fixedDeltaTime;
-                if (attackFunctionsTimer >= attackWaitTime)
+                if (attackFunctionsTimer >= attackWaitTime*GameController.instance.attackSpeed)
                 {
                     executeAttack = true;
                     anim.SetBool("Attack", true);
@@ -208,7 +208,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
             else
             {    
                 attackFunctionsTimer += Time.fixedDeltaTime;
-                if (attackFunctionsTimer >= actualAttackTime)
+                if (attackFunctionsTimer >= actualAttackTime*GameController.instance.attackSpeed)
                 {
                     anim.SetBool("Attack", false);
                     executeAttack = false;
@@ -224,7 +224,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
             anim.SetBool("Charge", true);
            
             attackFunctionsTimer += Time.fixedDeltaTime;
-            if(attackFunctionsTimer >= attackChargeTime)
+            if(attackFunctionsTimer >= attackChargeTime*GameController.instance.attackSpeed)
             {
                 chargeCompleted = true;
                 attackFunctionsTimer = 0;
@@ -246,7 +246,6 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
                 transform.localScale = new Vector3(1, 1, 1);
             }
             rb2d.velocity = movementVec * timeSpeed;
-            print(playerPos.ToString());
         }
         else
         {

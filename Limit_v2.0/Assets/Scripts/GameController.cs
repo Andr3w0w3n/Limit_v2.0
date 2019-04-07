@@ -15,11 +15,13 @@ public class GameController : MonoBehaviour
     public int collected = 0;
     public int quickTimeScore = 0;
     public float speed = 1;
+    public float attackSpeed = 1;
     public float timeSlowSpeed = .50f;
     public bool timeSlowActive = false;
     public float meteorCollisionSpeed = 1;
-
     public Transform playerPos;
+    public Transform cameraPos;
+    public bool meteorClose = false;
 
     //awake method
     void Awake()
@@ -53,6 +55,7 @@ public class GameController : MonoBehaviour
         {
             timeValue -= .1f;
             speed = timeSlowSpeed;
+            attackSpeed = attackSpeed+(attackSpeed*timeSlowSpeed);
             if(timeValue <= 0)
             {
                 timeSlowActive = false;
@@ -61,6 +64,7 @@ public class GameController : MonoBehaviour
         else
         {
             speed = 1;
+            attackSpeed = 1;
             if (timeValue < 50)
             {
                 timeValue += .01f;

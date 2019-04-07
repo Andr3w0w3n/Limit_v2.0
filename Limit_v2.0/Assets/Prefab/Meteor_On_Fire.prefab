@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 1599799871046589371}
   - component: {fileID: 1599799871046589370}
   - component: {fileID: 793440157111541594}
-  - component: {fileID: 1296227356432236726}
   m_Layer: 15
   m_Name: Meteor_On_Fire
   m_TagString: Meteor
@@ -102,8 +101,12 @@ MonoBehaviour:
   deleteYPosition: -10
   deleteXPositionOne: -15
   deleteXPositionTwo: 150
-  meteorSprite: {fileID: 0}
+  meteorSprite: {fileID: 21300000, guid: 613ece0b1b37b894bb7c55675f561b1f, type: 3}
   toxic: {fileID: 0}
+  exlimation: {fileID: 1029442188664876378, guid: f48dd2d172598d7408a6a9e2cacb0c42,
+    type: 3}
+  warningScript: {fileID: 6779818359896001483, guid: f48dd2d172598d7408a6a9e2cacb0c42,
+    type: 3}
 --- !u!50 &1599799871046589370
 Rigidbody2D:
   serializedVersion: 4
@@ -151,15 +154,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.9949656, y: 1.1979856}
   m_EdgeRadius: 0
---- !u!114 &1296227356432236726
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1599799871046589350}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50771ed421fbdad44ad856ec0b793361, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
