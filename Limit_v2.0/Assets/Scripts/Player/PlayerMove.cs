@@ -22,6 +22,7 @@ public class PlayerMove : MonoBehaviour
     private float lastXPos;
 
     private bool isInAir;
+    private bool isFalling = false;
 
     public Ghost ghost;
     // Start is called before the first frame update
@@ -57,9 +58,18 @@ public class PlayerMove : MonoBehaviour
             {
                 if (lastYPos > transform.position.y)
                 {
-
                     isInAir = false;
                     animate.SetBool("isJumping", false);
+                    isFalling = true;
+                    animate.SetBool("isFalling", true);
+                }
+            }
+            if (isFalling)
+            {
+                if((((float)((int)(lastYPos*100)))/100) == (((float)((int)(transform.position.y*100))/100)))
+                {
+                    isFalling = false;
+                    animate.SetBool("isFalling", false);
                 }
             }
             //check to see if sprinting

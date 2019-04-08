@@ -74,8 +74,6 @@ public class ExclimationBehavior : MonoBehaviour
 
     private void FixedUpdate()
     {
-        print(GameController.instance.meteorClose.ToString());
-
         transform.position = new Vector3(playerPos.position.x, playerPos.position.y + 1, playerPos.position.z);
 
         anim.SetBool("isOn", GameController.instance.meteorClose);

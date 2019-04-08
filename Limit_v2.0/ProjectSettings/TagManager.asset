@@ -10,6 +10,7 @@ TagManager:
   - Meteor
   - Toxic_Slime
   - InfectedStudent_Attack
+  - Car
   layers:
   - Default
   - TransparentFX

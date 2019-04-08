@@ -47,6 +47,13 @@ public class GameController : MonoBehaviour
 
     void Update()
     {
+        //exit game if escape key is pressed
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
+        //time slow activation
         if (Input.GetKeyDown(KeyCode.L))
         {
             timeSlowActive = !timeSlowActive;

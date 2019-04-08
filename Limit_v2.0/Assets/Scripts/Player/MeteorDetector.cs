@@ -25,7 +25,6 @@ public class MeteorDetector : MonoBehaviour
     {
         if(collision.gameObject.tag == "Meteor")
         {
-            print("made it here!");
             GameController.instance.meteorClose = true;
         }
     }
@@ -34,7 +33,6 @@ public class MeteorDetector : MonoBehaviour
     {
         if(collision.gameObject.tag == "Meteor")
         {
-            print("got out!");
             GameController.instance.meteorClose = false;
         }
     }

@@ -67,6 +67,12 @@ public class EnemyCollisionAction : MonoBehaviour
             triggerAnim = true;
             GameController.instance.lifeValue -= 25;
         }
+        if(collision.gameObject.tag == "Car")
+        {
+            isHit = true;
+            triggerAnim = true;
+            GameController.instance.lifeValue -= 25;
+        }
     }
 
     private void damageTakenFlash(float lvl, bool down)

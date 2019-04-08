@@ -7,6 +7,11 @@ public class CameraFollow : MonoBehaviour
     //globals
     public Transform playerTransform;
     private Vector3 offset;
+
+    public float yLowPosition = 1.6f;
+    public float yTopPosition = 3.4f;
+    public float xLeftPosition = -1.85f;
+    public float xRightPosition = 128.5f;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,21 +22,21 @@ public class CameraFollow : MonoBehaviour
     void Update()
     {
         transform.position = new Vector3(playerTransform.position.x, playerTransform.position.y, transform.position.z);
-        if(transform.position.y < 1.6)
+        if(transform.position.y < yLowPosition)
         {
-            transform.position = new Vector3(transform.position.x, 1.6f, transform.position.z);
+            transform.position = new Vector3(transform.position.x, yLowPosition, transform.position.z);
         }
-        if(transform.position.y > 3.4)
+        if(transform.position.y > yTopPosition)
         {
-            transform.position = new Vector3(transform.position.x, 3.4f, transform.position.z);
+            transform.position = new Vector3(transform.position.x, yTopPosition, transform.position.z);
         }
-        if(transform.position.x < -1.85)
+        if(transform.position.x < xLeftPosition)
         {
-            transform.position = new Vector3(-1.85f, transform.position.y, transform.position.z);
+            transform.position = new Vector3(xLeftPosition, transform.position.y, transform.position.z);
         }
-        if (transform.position.x > 128.5)
+        if (transform.position.x > xRightPosition)
         {
-            transform.position = new Vector3(128.5f, transform.position.y, transform.position.z);
+            transform.position = new Vector3(xRightPosition, transform.position.y, transform.position.z);
         }
     }
 }
