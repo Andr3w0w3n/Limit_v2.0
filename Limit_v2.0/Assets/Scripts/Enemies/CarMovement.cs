@@ -19,6 +19,9 @@ public class CarMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb2d.velocity = movementVec * GameController.instance.speed;
-        
+        if(transform.position.x < GameController.instance.playerPos.position.x - 20)
+        {
+            Object.Destroy(gameObject);
+        }
     }
 }
