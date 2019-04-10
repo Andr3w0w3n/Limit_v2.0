@@ -59,7 +59,7 @@ public class PlayerMove : MonoBehaviour
                 if (lastYPos > transform.position.y)
                 {
                     isInAir = false;
-                    animate.SetBool("isJumping", false);
+                    //animate.SetBool("isJumping", false);
                     isFalling = true;
                     animate.SetBool("isFalling", true);
                 }
@@ -114,7 +114,7 @@ public class PlayerMove : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
             {
                 isInAir = true;
-                animate.SetBool("isJumping", true);
+                //animate.SetBool("isJumping", true);
                 rb2d.AddForce(jump);
                 isOnGround = false;
             }

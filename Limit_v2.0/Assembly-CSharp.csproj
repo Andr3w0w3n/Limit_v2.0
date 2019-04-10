@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\Enviroment\SchoolBG.cs" />
     <Compile Include="Assets\Scripts\Enviroment\SlimeBehavior.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\NPC\LoveInterestBehavior.cs" />
     <Compile Include="Assets\Scripts\Player\EnemyCollisionAction.cs" />
     <Compile Include="Assets\Scripts\Player\ExclimationBehavior.cs" />
     <Compile Include="Assets\Scripts\Player\Ghost.cs" />
