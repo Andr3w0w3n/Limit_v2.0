@@ -54,7 +54,7 @@ public class PlayerMove : MonoBehaviour
         
         if (!(animate.GetCurrentAnimatorStateInfo(0).IsName("Damage")))
         {
-            if (isInAir)
+            /*if (isInAir)
             {
                 if (lastYPos > transform.position.y)
                 {
@@ -71,7 +71,7 @@ public class PlayerMove : MonoBehaviour
                     isFalling = false;
                     animate.SetBool("isFalling", false);
                 }
-            }
+            }*/
             //check to see if sprinting
             if (Input.GetKey(KeyCode.LeftShift) && GameController.instance.stanimaValue > 0)
             {
@@ -113,8 +113,6 @@ public class PlayerMove : MonoBehaviour
             }
             if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
             {
-                isInAir = true;
-                animate.SetBool("isJumping", true);
                 rb2d.AddForce(jump);
                 isOnGround = false;
             }
@@ -140,7 +138,7 @@ public class PlayerMove : MonoBehaviour
         {
             isOnGround = true;
         }
-        if(collision.gameObject. tag == "Locker" && transform.position.y > 2.4f )
+        if(collision.gameObject. tag == "Locker" && transform.position.y > 2 )
         {
             isOnGround = true;
         }
