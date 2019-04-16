@@ -83,5 +83,11 @@ public class GameController : MonoBehaviour
         {
             isAlive = false;
         }
+
+        //quit game
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 }
