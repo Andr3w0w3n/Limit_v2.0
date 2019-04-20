@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/andr3wr0ck5/Documents/GitHub/Limit_v2.0/Builds/Alpha_1.0/Limit.exe
+C:/Users/andr3wr0ck5/Documents/GitHub/Limit_Builds/Alpha_1.0/Limit.exe
 SceneListBegin?
 Assets/Scenes/LevelOne.unity
 Assets/Scenes/QuickTimeEvent_01.unity
