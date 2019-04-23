@@ -80,6 +80,7 @@
     <Compile Include="Assets\Scripts\Player\MeteorDetector.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\QTE\QTE.cs" />
+    <Compile Include="Assets\Scripts\QTE\SliderMarkerBehavior.cs" />
     <Compile Include="Assets\Scripts\QTE\StarBehavior.cs" />
     <Compile Include="Assets\Scripts\ScaredStudentCollectable.cs" />
     <Compile Include="Assets\Scripts\UI\HealthBar.cs" />
