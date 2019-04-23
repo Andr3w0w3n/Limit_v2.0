@@ -693,13 +693,44 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1676240168}
+  - component: {fileID: 1676240167}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
+--- !u!114 &1676240167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1676240166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5645698f4e652594fb81f619fd26f6f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifeValue: 100
+  stanimaValue: 25
+  timeValue: 50
+  isAlive: 1
+  collected: 0
+  speed: 1
+  attackSpeed: 1
+  timeSlowSpeed: 0.5
+  timeSlowActive: 0
+  meteorCollisionSpeed: 1
+  playerPos: {fileID: 0}
+  cameraPos: {fileID: 0}
+  meteorClose: 0
+  isQTE: 1
+  quickTimeScore: 0
+  goalScore: 50
+  nextLevelTime: 35
+  nPC: {fileID: 0}
 --- !u!4 &1676240168
 Transform:
   m_ObjectHideFlags: 0

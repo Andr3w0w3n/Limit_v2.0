@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/QuickTimeEvent_01.unity
     guid: 8ba81312b24991a44a5ac6f665d89483
+  - enabled: 1
+    path: Assets/Scenes/LevelTwo.unity
+    guid: 0ee0869f5eccfd640bdf5d2b0433eabe
   m_configObjects: {}

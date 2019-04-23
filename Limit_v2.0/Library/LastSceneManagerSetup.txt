@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/LevelOne.unity
+- path: Assets/Scenes/QuickTimeEvent_01.unity
   isLoaded: 1
   isActive: 1
