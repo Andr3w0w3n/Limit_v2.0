@@ -118,7 +118,6 @@ public class GameController : MonoBehaviour
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
-            print(quickTimeScore);
             if(quickTimeScore >= goalScore)
             {
                 gotNPC = true;
