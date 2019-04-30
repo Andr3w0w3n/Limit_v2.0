@@ -40,7 +40,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
     public float attackChargeTime = 1;
     private float attackFunctionsTimer = 0;
     public float attackWaitTime = .5f;
-    public float actualAttackTime = 4;
+    public float attackTime = 4;
     private bool executeAttack = false;
     private bool chargeCompleted = false;
 
@@ -181,7 +181,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
             setSpeed = !setSpeed;
         }
 
-        //check to see if the enemy is moving
+        //check to see if the enemy is moving to update animation
         if (trans.position.x != xPositionChange)
         {
             anim.SetBool("isMoving", true);
@@ -195,9 +195,9 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
         //actual movement
         if (chargeCompleted)
         {
+            attackFunctionsTimer += Time.fixedDeltaTime;
             if (!executeAttack)
             {
-                attackFunctionsTimer += Time.fixedDeltaTime;
                 if (attackFunctionsTimer >= attackWaitTime*GameController.instance.attackSpeed)
                 {
                     executeAttack = true;
@@ -207,8 +207,7 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
             }
             else
             {    
-                attackFunctionsTimer += Time.fixedDeltaTime;
-                if (attackFunctionsTimer >= actualAttackTime*GameController.instance.attackSpeed)
+                if (attackFunctionsTimer >= attackTime*GameController.instance.attackSpeed)
                 {
                     anim.SetBool("Attack", false);
                     executeAttack = false;
