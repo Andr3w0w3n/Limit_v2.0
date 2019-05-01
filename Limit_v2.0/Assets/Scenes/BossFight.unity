@@ -129,6 +129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1856231}
+  - component: {fileID: 1856232}
   m_Layer: 0
   m_Name: DebrisSpawner
   m_TagString: Untagged
@@ -144,12 +145,31 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1856230}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.01, y: 8.83, z: 0.045255434}
+  m_LocalPosition: {x: 0.01, y: 10.11, z: 0.045255434}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1856232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbe6d1517012ea42a978d9412e23834, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debris: {fileID: 3599482296126694105, guid: 45d0264763da60f4187d933e680dd6da, type: 3}
+  smallDebris: {fileID: 0}
+  bossScript: {fileID: 1052110385}
+  minRandomAngle: -45
+  maxRandomAngle: 45
+  minSmall: 3
+  maxSmall: 7
 --- !u!1 &112892058
 GameObject:
   m_ObjectHideFlags: 0
@@ -1740,6 +1760,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffe639c2bb60a8a4599ce57d7f7e4382, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerAtRight: 0
+  playerAtLeft: 0
+  isAttacking: 0
   sideWaitTime: 2
   midWaitTime: 1
   groundWaitTime: 5

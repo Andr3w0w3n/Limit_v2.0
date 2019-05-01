@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyCollisionAction : MonoBehaviour
 {
@@ -68,12 +69,18 @@ public class EnemyCollisionAction : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Meteor")
+        if (collision.gameObject.tag == "Meteor" && SceneManager.GetActiveScene().name == "BossFight")
+        {
+            isHit = true;
+            triggerAnim = true;
+            GameController.instance.lifeValue -= 15;
+        }
+        else if (collision.gameObject.tag == "Meteor")
         {
             isHit = true;
             triggerAnim = true;
         }
-        if(collision.gameObject.tag == "InfectedStudent_Attack")
+        if (collision.gameObject.tag == "InfectedStudent_Attack")
         {
             isHit = true;
             triggerAnim = true;

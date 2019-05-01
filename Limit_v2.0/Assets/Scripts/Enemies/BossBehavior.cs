@@ -5,13 +5,10 @@ using UnityEngine;
 public class BossBehavior : MonoBehaviour
 {
     //major attack private variables
-    private bool playerAtRight = false;
-    private bool playerAtLeft = false;
     private bool playerAtGround = false;
     private bool playerAtMid = false;
     private bool attackingMidOrGround = false;
     private bool activeTimer = false;
-    private bool isAttacking = false;
     private bool hasInitiatedAttack = false;
     private bool isBasicAttacking = false;
     private bool isStartingAttacking = false;
@@ -20,7 +17,6 @@ public class BossBehavior : MonoBehaviour
     private float sideAttackAnimRunTime = 126.0f/60.0f;
     private float chargeAttackAnimRunTime = 59.0f/60.0f;
     private Vector2 attackMovementVector;
-    private float throwAttackRunTime = 95.0f / 60.0f;
     private float throwTimer = 0;
     private bool thrown = false;
     private bool haveHit = false;
@@ -28,6 +24,9 @@ public class BossBehavior : MonoBehaviour
     private bool missedHit = false;
 
     //Major attack public variables
+    public bool playerAtRight = false;
+    public bool playerAtLeft = false;
+    public bool isAttacking = false;
     public float sideWaitTime = 2;
     public float midWaitTime = 3;
     public float groundWaitTime = 5;
@@ -48,7 +47,6 @@ public class BossBehavior : MonoBehaviour
     public Viewfinder midView;
 
     //AI private variables & basic attack variables
-    private bool drainedRebound = false;
     private bool chargeCompleted= false;
     private bool executeAttack = false;
     private bool follow;

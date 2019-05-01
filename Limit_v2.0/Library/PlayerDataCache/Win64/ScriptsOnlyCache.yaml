@@ -6,6 +6,8 @@ ScriptsOnlyBuild:
     - CameraFollow
     - CarMovement
     - CarSpawner
+    - Debris
+    - DebrisSpawner
     - EnemyCollisionAction
     - ExclimationBehavior
     - ExitDoor_Scene
@@ -84,33 +86,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9342}
+      Script: {instanceID: 9384}
     - Class: 114
-      Script: {instanceID: 9354}
+      Script: {instanceID: 9396}
     - Class: 114
-      Script: {instanceID: 9362}
+      Script: {instanceID: 9404}
     - Class: 114
-      Script: {instanceID: 9370}
+      Script: {instanceID: 9412}
     - Class: 114
-      Script: {instanceID: 9538}
+      Script: {instanceID: 9632}
     - Class: 114
-      Script: {instanceID: 9540}
+      Script: {instanceID: 9634}
     - Class: 114
-      Script: {instanceID: 9750}
+      Script: {instanceID: 9976}
     - Class: 114
-      Script: {instanceID: 9882}
+      Script: {instanceID: 10252}
     - Class: 114
-      Script: {instanceID: 9946}
+      Script: {instanceID: 10370}
     - Class: 114
-      Script: {instanceID: 10090}
+      Script: {instanceID: 10582}
     - Class: 114
-      Script: {instanceID: 10124}
+      Script: {instanceID: 10640}
     - Class: 114
-      Script: {instanceID: 10166}
+      Script: {instanceID: 10682}
     - Class: 114
-      Script: {instanceID: 10178}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 10284}
+      Script: {instanceID: 10918}
+    - Class: 114
+      Script: {instanceID: 14334}
+    - Class: 114
+      Script: {instanceID: 14430}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -171,75 +177,75 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 640}
+      Script: {instanceID: 612}
     - Class: 114
-      Script: {instanceID: 9242}
+      Script: {instanceID: 9210}
     - Class: 114
-      Script: {instanceID: 9316}
+      Script: {instanceID: 9240}
     - Class: 114
-      Script: {instanceID: 9342}
+      Script: {instanceID: 9292}
     - Class: 114
-      Script: {instanceID: 9348}
+      Script: {instanceID: 9294}
+    - Class: 114
+      Script: {instanceID: 9332}
+    - Class: 114
+      Script: {instanceID: 9336}
     - Class: 114
       Script: {instanceID: 9354}
     - Class: 114
-      Script: {instanceID: 9362}
+      Script: {instanceID: 9384}
     - Class: 114
-      Script: {instanceID: 9370}
+      Script: {instanceID: 9390}
     - Class: 114
-      Script: {instanceID: 9398}
+      Script: {instanceID: 9396}
     - Class: 114
-      Script: {instanceID: 9538}
+      Script: {instanceID: 9404}
     - Class: 114
-      Script: {instanceID: 9630}
+      Script: {instanceID: 9412}
     - Class: 114
-      Script: {instanceID: 9658}
+      Script: {instanceID: 9440}
     - Class: 114
-      Script: {instanceID: 9732}
+      Script: {instanceID: 9632}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 9672}
     - Class: 114
-      Script: {instanceID: 9882}
+      Script: {instanceID: 9756}
     - Class: 114
-      Script: {instanceID: 9894}
+      Script: {instanceID: 9790}
     - Class: 114
-      Script: {instanceID: 9898}
+      Script: {instanceID: 9926}
     - Class: 114
-      Script: {instanceID: 9946}
+      Script: {instanceID: 10108}
     - Class: 114
-      Script: {instanceID: 9988}
+      Script: {instanceID: 10246}
     - Class: 114
-      Script: {instanceID: 10004}
+      Script: {instanceID: 10252}
     - Class: 114
-      Script: {instanceID: 10090}
+      Script: {instanceID: 10266}
     - Class: 114
-      Script: {instanceID: 10124}
+      Script: {instanceID: 10272}
     - Class: 114
-      Script: {instanceID: 10166}
+      Script: {instanceID: 10370}
     - Class: 114
-      Script: {instanceID: 10178}
+      Script: {instanceID: 10398}
     - Class: 114
-      Script: {instanceID: 10180}
+      Script: {instanceID: 10420}
     - Class: 114
-      Script: {instanceID: 10216}
+      Script: {instanceID: 10458}
     - Class: 114
-      Script: {instanceID: 10284}
+      Script: {instanceID: 10582}
     - Class: 114
-      Script: {instanceID: 14918}
+      Script: {instanceID: 10640}
     - Class: 114
-      Script: {instanceID: 14954}
+      Script: {instanceID: 10682}
     - Class: 114
-      Script: {instanceID: 14956}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 14980}
+      Script: {instanceID: 10704}
     - Class: 114
-      Script: {instanceID: 14994}
+      Script: {instanceID: 10828}
     - Class: 114
-      Script: {instanceID: 15088}
-    - Class: 114
-      Script: {instanceID: 15376}
-    - Class: 114
-      Script: {instanceID: 15546}
+      Script: {instanceID: 10918}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -300,43 +306,43 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9342}
+      Script: {instanceID: 9384}
     - Class: 114
-      Script: {instanceID: 9354}
+      Script: {instanceID: 9396}
     - Class: 114
-      Script: {instanceID: 9362}
+      Script: {instanceID: 9404}
     - Class: 114
-      Script: {instanceID: 9370}
+      Script: {instanceID: 9412}
     - Class: 114
-      Script: {instanceID: 9538}
+      Script: {instanceID: 9632}
     - Class: 114
-      Script: {instanceID: 9586}
+      Script: {instanceID: 9706}
     - Class: 114
-      Script: {instanceID: 9658}
+      Script: {instanceID: 9790}
     - Class: 114
-      Script: {instanceID: 9882}
+      Script: {instanceID: 10252}
     - Class: 114
-      Script: {instanceID: 9894}
+      Script: {instanceID: 10266}
     - Class: 114
-      Script: {instanceID: 9946}
+      Script: {instanceID: 10370}
     - Class: 114
-      Script: {instanceID: 9998}
+      Script: {instanceID: 10442}
     - Class: 114
-      Script: {instanceID: 10004}
+      Script: {instanceID: 10458}
     - Class: 114
-      Script: {instanceID: 10090}
+      Script: {instanceID: 10582}
     - Class: 114
-      Script: {instanceID: 10124}
+      Script: {instanceID: 10640}
     - Class: 114
-      Script: {instanceID: 10166}
+      Script: {instanceID: 10644}
     - Class: 114
-      Script: {instanceID: 10170}
+      Script: {instanceID: 10682}
     - Class: 114
-      Script: {instanceID: 10178}
+      Script: {instanceID: 10686}
     - Class: 114
-      Script: {instanceID: 10284}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 27238}
+      Script: {instanceID: 10918}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -385,21 +391,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9348}
+      Script: {instanceID: 9390}
     - Class: 114
-      Script: {instanceID: 9362}
+      Script: {instanceID: 9404}
     - Class: 114
-      Script: {instanceID: 9398}
+      Script: {instanceID: 9440}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 10084}
     - Class: 114
-      Script: {instanceID: 9806}
+      Script: {instanceID: 10096}
     - Class: 114
-      Script: {instanceID: 9814}
+      Script: {instanceID: 10122}
     - Class: 114
-      Script: {instanceID: 10172}
+      Script: {instanceID: 10688}
     - Class: 114
-      Script: {instanceID: 10284}
+      Script: {instanceID: 10918}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -431,10 +437,22 @@ ScriptsOnlyBuild:
     className: TMP_SelectionCaret
   - hash:
       serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
       Hash: bf530eb47e6a86dcee1d42e40c3b7ac8
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 5bd9a19c7b5f76c563418e28f48a561b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyPlayer
   - hash:
       serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
@@ -443,10 +461,34 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
       Hash: edbfdd226dc76bf63bdf00ce4e1df427
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MeteorDetector
+  - hash:
+      serializedVersion: 2
+      Hash: eafb77726b67b7571818a7210a3ce11e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkIdentity
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
@@ -647,6 +689,12 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
+      Hash: ad9173d3a69d99153f38ed4b62226129
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransform
+  - hash:
+      serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -839,16 +887,34 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
       Hash: eb91515fcace7a902b63456b05d770e2
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Viewfinder
   - hash:
       serializedVersion: 2
-      Hash: 821139dda6ca54c95b3312086dadf4b4
+      Hash: de16d38433a38cfdc172b96db8eac3df
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BossBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: f08a111e17bb701f9c9ec57bb78d9920
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3f0b469d844365c00a63de0437c9b29e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkProximityChecker
   - hash:
       serializedVersion: 2
       Hash: afc5b93a7b192de2dcb3832fe35a5c7e
@@ -863,6 +929,18 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 780e8f682b3221346c034a6712a0fd25
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
       Hash: 1791c20a01087cc3ad2b9f7c1daa19bc
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -873,6 +951,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CameraFollow
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
   - hash:
       serializedVersion: 2
       Hash: 303ad70ce203ad874efe2965d0fbcff9
@@ -887,10 +971,34 @@ ScriptsOnlyBuild:
     className: AnalyticsTracker
   - hash:
       serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
       Hash: b8a5e8091ab0b8861d2add371082c5e0
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 265cf27ba050d55ff33a8acab4ded6c0
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5887ef1bc706b22b773d253fd443ceef
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransformVisualizer
   - hash:
       serializedVersion: 2
       Hash: b5fe88ad07a4fe347ab9d5c4e5461d68
@@ -911,10 +1019,28 @@ ScriptsOnlyBuild:
     className: TMP_Asset
   - hash:
       serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkCallbacks
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Analytics.Editor.dll
     namespaceName: UnityEditor.Analytics
     className: AnalyticsEventTrackerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 21e871d89bbce53c038fc75ad1b7c7f3
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkManager
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -947,6 +1073,12 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkStartPosition
+  - hash:
+      serializedVersion: 2
       Hash: 65117b768794135568c02345ba0c18cf
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -971,6 +1103,12 @@ ScriptsOnlyBuild:
     className: SchoolBG
   - hash:
       serializedVersion: 2
+      Hash: 3f8d7b92a6be3c715e55d5cfa7cc8384
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
       Hash: 4a0369cd366c126cd420018a4ac01f32
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -981,6 +1119,24 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 318c6c13a19c9fac98135ae14889de1b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkMigrationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
       Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
@@ -1019,10 +1175,22 @@ ScriptsOnlyBuild:
     className: PlayerMove
   - hash:
       serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ScaredStudentCollectable
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkBehaviour
   - hash:
       serializedVersion: 2
       Hash: e33dd4ff79b8f973b2f496f35c43d9bf
@@ -1049,6 +1217,12 @@ ScriptsOnlyBuild:
     className: DataPrivacyButton
   - hash:
       serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
       Hash: 73fe214ae91f4b9c7e311f27ff909695
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1059,6 +1233,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: HealthBar
+  - hash:
+      serializedVersion: 2
+      Hash: edbfdd226dc76bf63bdf00ce4e1df427
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BGSpawn
   - hash:
       serializedVersion: 2
       Hash: cec20341e7af05ac092fc3417d82a2bc
@@ -1091,10 +1271,34 @@ ScriptsOnlyBuild:
     className: MeteorBehavior
   - hash:
       serializedVersion: 2
+      Hash: 1dcb82730d983b77cec736c6ef19f814
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkDiscovery
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
       Hash: d791aa6007fa3640be1164ea75bb087d
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: e6ae40841db498b6e673877ac45ad208
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkAnimator
   - hash:
       serializedVersion: 2
       Hash: 5372ed2ce39229b1ac910757999a8be2
@@ -1115,214 +1319,16 @@ ScriptsOnlyBuild:
     className: TMP_ColorGradient
   - hash:
       serializedVersion: 2
-      Hash: 8649814970b42d345b89944b862453cc
-    assemblyName: Unity.TextMeshPro.dll
-    namespaceName: TMPro
-    className: TMP_SubMesh
-  - hash:
-      serializedVersion: 2
-      Hash: d7902759a5fb14cc24204d2dd20739eb
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameController
-  - hash:
-      serializedVersion: 2
-      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
-    assemblyName: UnityEngine.TestRunner.dll
-    namespaceName: UnityEngine.TestTools
-    className: BeforeAfterTestCommandState
-  - hash:
-      serializedVersion: 2
-      Hash: 87ff43d2baf3385cba327d8f803a4ebb
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AudioPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 5bd9a19c7b5f76c563418e28f48a561b
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkLobbyPlayer
-  - hash:
-      serializedVersion: 2
-      Hash: 04e4a8b0447477cc4e933d9e5311188f
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: ArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: c3d3430df9e3ea95e3e3d587961390fb
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: GroupTrack
-  - hash:
-      serializedVersion: 2
-      Hash: a5781dc71a671b1ad2b38de19f24b71f
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: ActivationTrack
-  - hash:
-      serializedVersion: 2
-      Hash: eafb77726b67b7571818a7210a3ce11e
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkIdentity
-  - hash:
-      serializedVersion: 2
-      Hash: ad9173d3a69d99153f38ed4b62226129
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkTransform
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: SignalAsset
-  - hash:
-      serializedVersion: 2
-      Hash: f08a111e17bb701f9c9ec57bb78d9920
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AnimationTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 3f0b469d844365c00a63de0437c9b29e
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkProximityChecker
-  - hash:
-      serializedVersion: 2
-      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: TransitionArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: 780e8f682b3221346c034a6712a0fd25
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AnimationPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: d251bf88db6c95a6b1aa0b69298da9ef
-    assemblyName: UnityEngine.SpatialTracking.dll
-    namespaceName: UnityEngine.SpatialTracking
-    className: TrackedPoseDriver
-  - hash:
-      serializedVersion: 2
-      Hash: 0fb27be807aa299702f28ad0bcad1f46
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: ControlPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: c3d3430df9e3ea95e3e3d587961390fb
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: ControlTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 265cf27ba050d55ff33a8acab4ded6c0
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkLobbyManager
-  - hash:
-      serializedVersion: 2
-      Hash: 5887ef1bc706b22b773d253fd443ceef
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkTransformVisualizer
-  - hash:
-      serializedVersion: 2
-      Hash: c3d3430df9e3ea95e3e3d587961390fb
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: SignalTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkCallbacks
-  - hash:
-      serializedVersion: 2
-      Hash: 21e871d89bbce53c038fc75ad1b7c7f3
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkManager
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkStartPosition
-  - hash:
-      serializedVersion: 2
-      Hash: 3f8d7b92a6be3c715e55d5cfa7cc8384
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: SignalReceiver
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: ActivationPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 318c6c13a19c9fac98135ae14889de1b
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkMigrationManager
-  - hash:
-      serializedVersion: 2
-      Hash: c1933cc0a2f4ff6eb13333347497beb3
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: TimelineAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkBehaviour
-  - hash:
-      serializedVersion: 2
-      Hash: f336e086360abe49a3323e5f1583c35a
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AudioTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 1dcb82730d983b77cec736c6ef19f814
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkDiscovery
-  - hash:
-      serializedVersion: 2
-      Hash: 893dbdbfe611d62e230a686ea89f1efd
-    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
-    namespaceName: UnityEngine.XR.LegacyInputHelpers
-    className: SwingArmModel
-  - hash:
-      serializedVersion: 2
-      Hash: c3d3430df9e3ea95e3e3d587961390fb
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: MarkerTrack
-  - hash:
-      serializedVersion: 2
-      Hash: e6ae40841db498b6e673877ac45ad208
-    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
-    namespaceName: UnityEngine.Networking
-    className: NetworkAnimator
-  - hash:
-      serializedVersion: 2
       Hash: e0ee4b3d4e27318934cc940a969d3d96
     assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
     namespaceName: UnityEngine.Networking
     className: NetworkManagerHUD
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
   - hash:
       serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
@@ -1331,20 +1337,32 @@ ScriptsOnlyBuild:
     className: SignalEmitter
   - hash:
       serializedVersion: 2
+      Hash: d7902759a5fb14cc24204d2dd20739eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameController
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: edbfdd226dc76bf63bdf00ce4e1df427
+      Hash: 2e7fad55f67c3312cfef6c4f23dc3c92
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: BGSpawn
+    className: DebrisSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 131f425607820796717868b02ff18299
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Debris
   platform: 19
   scenePathNames:
   - Assets/Scenes/LevelOne.unity
   - Assets/Scenes/QuickTimeEvent_01.unity
   - Assets/Scenes/LevelTwo.unity
   - Assets/Scenes/BossFight.unity
-  playerPath: E:/UMT Spring Semester 2019/CSCI 391/Builds/Limit.exe
+  playerPath: E:/UMT Spring Semester 2019/CSCI 391/Builds/Beta_2.1/Limit.exe
