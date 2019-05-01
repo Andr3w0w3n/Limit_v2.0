@@ -58,6 +58,12 @@ public class EnemyCollisionAction : MonoBehaviour
             triggerAnim = true;
             GameController.instance.lifeValue -= 25;
         }
+        if (collision.gameObject.tag == "Boss")
+        {
+            isHit = true;
+            triggerAnim = true;
+            GameController.instance.lifeValue -= 5;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -73,7 +79,6 @@ public class EnemyCollisionAction : MonoBehaviour
             triggerAnim = true;
             GameController.instance.lifeValue -= 25;
         }
-        
     }
 
     private void damageTakenFlash(float lvl, bool down)

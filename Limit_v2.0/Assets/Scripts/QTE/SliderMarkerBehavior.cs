@@ -5,7 +5,6 @@ using UnityEngine;
 public class SliderMarkerBehavior : MonoBehaviour
 {
     private bool goDown = true;
-    private float timer = 0;
 
     public float moveDownSpeed = 0.005f;
     public float keyJump = .75f;

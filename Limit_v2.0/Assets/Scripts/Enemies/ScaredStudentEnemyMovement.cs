@@ -16,7 +16,6 @@ public class ScaredStudentEnemyMovement : MonoBehaviour
     private bool setSpeed = false;
     private bool countDown = false;
     private Animator anim;
-    private bool isMoving = true;
     private float xPositionChange;
     private Transform trans;
 

@@ -11,6 +11,8 @@ TagManager:
   - Toxic_Slime
   - InfectedStudent_Attack
   - Car
+  - Boss
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -30,8 +32,8 @@ TagManager:
   - Meteor
   - Viewfinder
   - NPC
-  - 
-  - 
+  - Boss
+  - Platform
   - 
   - 
   - 

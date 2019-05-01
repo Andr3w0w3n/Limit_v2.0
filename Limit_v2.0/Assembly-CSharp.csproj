@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Enemies\CarMovement.cs" />
     <Compile Include="Assets\Scripts\Enemies\MeteorBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemies\ScaredStudentEnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\Enemies\SmallDebrisBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemies\Viewfinder.cs" />
     <Compile Include="Assets\Scripts\Enviroment\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Enviroment\CarSpawner.cs" />
