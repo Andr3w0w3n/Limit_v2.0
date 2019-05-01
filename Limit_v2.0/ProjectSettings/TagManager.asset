@@ -13,6 +13,7 @@ TagManager:
   - Car
   - Boss
   - Platform
+  - downBoss
   layers:
   - Default
   - TransparentFX

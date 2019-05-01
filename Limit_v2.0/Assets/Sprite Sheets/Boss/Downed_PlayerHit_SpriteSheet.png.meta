@@ -1,0 +1,3341 @@
+fileFormatVersion: 2
+guid: 54153a3e260c9614984d998c28ca0aaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2699257307734699403
+    second: Downed_PlayerHit_SpriteSheet_0
+  - first:
+      213: -6871467901853663987
+    second: Downed_PlayerHit_SpriteSheet_1
+  - first:
+      213: -8835902525206361213
+    second: Downed_PlayerHit_SpriteSheet_2
+  - first:
+      213: -6136080289238212479
+    second: Downed_PlayerHit_SpriteSheet_3
+  - first:
+      213: 7431104386077953660
+    second: Downed_PlayerHit_SpriteSheet_4
+  - first:
+      213: 4041490442296887760
+    second: Downed_PlayerHit_SpriteSheet_5
+  - first:
+      213: 8780189797565898382
+    second: Downed_PlayerHit_SpriteSheet_6
+  - first:
+      213: 9135244366962148512
+    second: Downed_PlayerHit_SpriteSheet_7
+  - first:
+      213: 4297714977559399666
+    second: Downed_PlayerHit_SpriteSheet_8
+  - first:
+      213: -4660816626986636320
+    second: Downed_PlayerHit_SpriteSheet_9
+  - first:
+      213: 8071650372951319792
+    second: Downed_PlayerHit_SpriteSheet_10
+  - first:
+      213: 5788098679290439597
+    second: Downed_PlayerHit_SpriteSheet_11
+  - first:
+      213: 790696074720952566
+    second: Downed_PlayerHit_SpriteSheet_12
+  - first:
+      213: 651688065301665125
+    second: Downed_PlayerHit_SpriteSheet_13
+  - first:
+      213: 5471592956961986697
+    second: Downed_PlayerHit_SpriteSheet_14
+  - first:
+      213: 1894259237226409791
+    second: Downed_PlayerHit_SpriteSheet_15
+  - first:
+      213: -5829210882976442655
+    second: Downed_PlayerHit_SpriteSheet_16
+  - first:
+      213: 8378757531459336395
+    second: Downed_PlayerHit_SpriteSheet_17
+  - first:
+      213: -1048371638749206405
+    second: Downed_PlayerHit_SpriteSheet_18
+  - first:
+      213: -2938684665896575335
+    second: Downed_PlayerHit_SpriteSheet_19
+  - first:
+      213: -5948569945262482113
+    second: Downed_PlayerHit_SpriteSheet_20
+  - first:
+      213: -9167052904217930480
+    second: Downed_PlayerHit_SpriteSheet_21
+  - first:
+      213: -1295681608162916540
+    second: Downed_PlayerHit_SpriteSheet_22
+  - first:
+      213: -4982851487870393701
+    second: Downed_PlayerHit_SpriteSheet_23
+  - first:
+      213: 9201015171812763837
+    second: Downed_PlayerHit_SpriteSheet_24
+  - first:
+      213: 1647117154016435174
+    second: Downed_PlayerHit_SpriteSheet_25
+  - first:
+      213: -1703552309711241200
+    second: Downed_PlayerHit_SpriteSheet_26
+  - first:
+      213: -3820881223555743285
+    second: Downed_PlayerHit_SpriteSheet_27
+  - first:
+      213: -7536001613087113907
+    second: Downed_PlayerHit_SpriteSheet_28
+  - first:
+      213: 3808025932864794851
+    second: Downed_PlayerHit_SpriteSheet_29
+  - first:
+      213: 7212951139101814614
+    second: Downed_PlayerHit_SpriteSheet_30
+  - first:
+      213: -5326831102185851623
+    second: Downed_PlayerHit_SpriteSheet_31
+  - first:
+      213: -8828923933223263005
+    second: Downed_PlayerHit_SpriteSheet_32
+  - first:
+      213: 2720184468481289301
+    second: Downed_PlayerHit_SpriteSheet_33
+  - first:
+      213: 5648677372415871787
+    second: Downed_PlayerHit_SpriteSheet_34
+  - first:
+      213: -8080463463128198997
+    second: Downed_PlayerHit_SpriteSheet_35
+  - first:
+      213: 7321955926366649153
+    second: Downed_PlayerHit_SpriteSheet_36
+  - first:
+      213: 13987851715831981
+    second: Downed_PlayerHit_SpriteSheet_37
+  - first:
+      213: 9048439373282425588
+    second: Downed_PlayerHit_SpriteSheet_38
+  - first:
+      213: -7521607215008775033
+    second: Downed_PlayerHit_SpriteSheet_39
+  - first:
+      213: -3474917837743131687
+    second: Downed_PlayerHit_SpriteSheet_40
+  - first:
+      213: -3537767365696245795
+    second: Downed_PlayerHit_SpriteSheet_41
+  - first:
+      213: 5704877088308074078
+    second: Downed_PlayerHit_SpriteSheet_42
+  - first:
+      213: -859950697191760721
+    second: Downed_PlayerHit_SpriteSheet_43
+  - first:
+      213: -7119903898000469764
+    second: Downed_PlayerHit_SpriteSheet_44
+  - first:
+      213: -3052088707330380934
+    second: Downed_PlayerHit_SpriteSheet_45
+  - first:
+      213: -2071413651917496651
+    second: Downed_PlayerHit_SpriteSheet_46
+  - first:
+      213: -2734410561831362520
+    second: Downed_PlayerHit_SpriteSheet_47
+  - first:
+      213: -5741921919017106972
+    second: Downed_PlayerHit_SpriteSheet_48
+  - first:
+      213: 9155975108479010296
+    second: Downed_PlayerHit_SpriteSheet_49
+  - first:
+      213: -4118180167499632885
+    second: Downed_PlayerHit_SpriteSheet_50
+  - first:
+      213: 5742982315531843964
+    second: Downed_PlayerHit_SpriteSheet_51
+  - first:
+      213: -875418238294153507
+    second: Downed_PlayerHit_SpriteSheet_52
+  - first:
+      213: 6258767695271753430
+    second: Downed_PlayerHit_SpriteSheet_53
+  - first:
+      213: -4868339051789746658
+    second: Downed_PlayerHit_SpriteSheet_54
+  - first:
+      213: 2981647228361166753
+    second: Downed_PlayerHit_SpriteSheet_55
+  - first:
+      213: -3923144677810261309
+    second: Downed_PlayerHit_SpriteSheet_56
+  - first:
+      213: 5590513423960344066
+    second: Downed_PlayerHit_SpriteSheet_57
+  - first:
+      213: 2413407124725056228
+    second: Downed_PlayerHit_SpriteSheet_58
+  - first:
+      213: 5980331686598286765
+    second: Downed_PlayerHit_SpriteSheet_59
+  - first:
+      213: -5388954416918310956
+    second: Downed_PlayerHit_SpriteSheet_60
+  - first:
+      213: -4477618336396776335
+    second: Downed_PlayerHit_SpriteSheet_61
+  - first:
+      213: 405136842576758536
+    second: Downed_PlayerHit_SpriteSheet_62
+  - first:
+      213: 8650213718527318538
+    second: Downed_PlayerHit_SpriteSheet_63
+  - first:
+      213: 7568249478338870602
+    second: Downed_PlayerHit_SpriteSheet_64
+  - first:
+      213: 2871101896640909203
+    second: Downed_PlayerHit_SpriteSheet_65
+  - first:
+      213: -3531633356479199141
+    second: Downed_PlayerHit_SpriteSheet_66
+  - first:
+      213: -3965324047915155200
+    second: Downed_PlayerHit_SpriteSheet_67
+  - first:
+      213: 2137241079817507124
+    second: Downed_PlayerHit_SpriteSheet_68
+  - first:
+      213: 8384122073773761972
+    second: Downed_PlayerHit_SpriteSheet_69
+  - first:
+      213: -6230138553745194574
+    second: Downed_PlayerHit_SpriteSheet_70
+  - first:
+      213: -1416435331709037259
+    second: Downed_PlayerHit_SpriteSheet_71
+  - first:
+      213: -3916655015114272456
+    second: Downed_PlayerHit_SpriteSheet_72
+  - first:
+      213: 9041644128308236007
+    second: Downed_PlayerHit_SpriteSheet_73
+  - first:
+      213: -255306652514207978
+    second: Downed_PlayerHit_SpriteSheet_74
+  - first:
+      213: -3741365223736104896
+    second: Downed_PlayerHit_SpriteSheet_75
+  - first:
+      213: -1435500516860443796
+    second: Downed_PlayerHit_SpriteSheet_76
+  - first:
+      213: -4186697755331923112
+    second: Downed_PlayerHit_SpriteSheet_77
+  - first:
+      213: -7415483106173368483
+    second: Downed_PlayerHit_SpriteSheet_78
+  - first:
+      213: -5997989484514662681
+    second: Downed_PlayerHit_SpriteSheet_79
+  - first:
+      213: -4781143719606292938
+    second: Downed_PlayerHit_SpriteSheet_80
+  - first:
+      213: 2020038147905041425
+    second: Downed_PlayerHit_SpriteSheet_81
+  - first:
+      213: -8723566529077590637
+    second: Downed_PlayerHit_SpriteSheet_82
+  - first:
+      213: 547491053538451624
+    second: Downed_PlayerHit_SpriteSheet_83
+  - first:
+      213: 1492005050055715083
+    second: Downed_PlayerHit_SpriteSheet_84
+  - first:
+      213: -8047287962393108208
+    second: Downed_PlayerHit_SpriteSheet_85
+  - first:
+      213: -4006141348181333773
+    second: Downed_PlayerHit_SpriteSheet_86
+  - first:
+      213: 5046783289322402816
+    second: Downed_PlayerHit_SpriteSheet_87
+  - first:
+      213: -1039362947458240285
+    second: Downed_PlayerHit_SpriteSheet_88
+  - first:
+      213: -8945034397586906169
+    second: Downed_PlayerHit_SpriteSheet_89
+  - first:
+      213: 4352734323677294779
+    second: Downed_PlayerHit_SpriteSheet_90
+  - first:
+      213: 4659041016965930062
+    second: Downed_PlayerHit_SpriteSheet_91
+  - first:
+      213: -489938763584416681
+    second: Downed_PlayerHit_SpriteSheet_92
+  - first:
+      213: 158023271204224680
+    second: Downed_PlayerHit_SpriteSheet_93
+  - first:
+      213: 4739917018132645117
+    second: Downed_PlayerHit_SpriteSheet_94
+  - first:
+      213: 2307961714885073905
+    second: Downed_PlayerHit_SpriteSheet_95
+  - first:
+      213: -7871973165417084014
+    second: Downed_PlayerHit_SpriteSheet_96
+  - first:
+      213: -7883066416299306183
+    second: Downed_PlayerHit_SpriteSheet_97
+  - first:
+      213: 2929014055943546534
+    second: Downed_PlayerHit_SpriteSheet_98
+  - first:
+      213: -5911093034076789681
+    second: Downed_PlayerHit_SpriteSheet_99
+  - first:
+      213: 8613507212486102527
+    second: Downed_PlayerHit_SpriteSheet_100
+  - first:
+      213: 6918610013756927033
+    second: Downed_PlayerHit_SpriteSheet_101
+  - first:
+      213: -7451125008696776302
+    second: Downed_PlayerHit_SpriteSheet_102
+  - first:
+      213: 1645589625526604703
+    second: Downed_PlayerHit_SpriteSheet_103
+  - first:
+      213: -634633392951530774
+    second: Downed_PlayerHit_SpriteSheet_104
+  - first:
+      213: 5577730846709349015
+    second: Downed_PlayerHit_SpriteSheet_105
+  - first:
+      213: 5572720010181570037
+    second: Downed_PlayerHit_SpriteSheet_106
+  - first:
+      213: 3983602673678495140
+    second: Downed_PlayerHit_SpriteSheet_107
+  - first:
+      213: 359291088858890195
+    second: Downed_PlayerHit_SpriteSheet_108
+  - first:
+      213: -1304979331586270034
+    second: Downed_PlayerHit_SpriteSheet_109
+  - first:
+      213: -6278546915045118328
+    second: Downed_PlayerHit_SpriteSheet_110
+  - first:
+      213: -8344557083428121030
+    second: Downed_PlayerHit_SpriteSheet_111
+  - first:
+      213: -4348775411455917339
+    second: Downed_PlayerHit_SpriteSheet_112
+  - first:
+      213: 1499196309317219222
+    second: Downed_PlayerHit_SpriteSheet_113
+  - first:
+      213: 8486821830543497005
+    second: Downed_PlayerHit_SpriteSheet_114
+  - first:
+      213: 3642031614420432210
+    second: Downed_PlayerHit_SpriteSheet_115
+  - first:
+      213: -9024639346702343539
+    second: Downed_PlayerHit_SpriteSheet_116
+  - first:
+      213: 4036249167087446238
+    second: Downed_PlayerHit_SpriteSheet_117
+  - first:
+      213: 5077905557336492371
+    second: Downed_PlayerHit_SpriteSheet_118
+  - first:
+      213: -3169858168448811775
+    second: Downed_PlayerHit_SpriteSheet_119
+  - first:
+      213: 6510319679168746432
+    second: Downed_PlayerHit_SpriteSheet_120
+  - first:
+      213: 4540327132551547725
+    second: Downed_PlayerHit_SpriteSheet_121
+  - first:
+      213: -1922019571627006145
+    second: Downed_PlayerHit_SpriteSheet_122
+  - first:
+      213: -8776448871310921577
+    second: Downed_PlayerHit_SpriteSheet_123
+  - first:
+      213: 1360359502709257846
+    second: Downed_PlayerHit_SpriteSheet_124
+  - first:
+      213: 2131420783070513200
+    second: Downed_PlayerHit_SpriteSheet_125
+  - first:
+      213: 1885677106040902472
+    second: Downed_PlayerHit_SpriteSheet_126
+  - first:
+      213: 8771103472614720006
+    second: Downed_PlayerHit_SpriteSheet_127
+  - first:
+      213: -3068215586261368759
+    second: Downed_PlayerHit_SpriteSheet_128
+  - first:
+      213: 3507563186445808160
+    second: Downed_PlayerHit_SpriteSheet_129
+  - first:
+      213: 4619111586593586283
+    second: Downed_PlayerHit_SpriteSheet_130
+  - first:
+      213: -3651839104461742935
+    second: Downed_PlayerHit_SpriteSheet_131
+  - first:
+      213: -7937487511077156083
+    second: Downed_PlayerHit_SpriteSheet_132
+  - first:
+      213: -4490733334737067606
+    second: Downed_PlayerHit_SpriteSheet_133
+  - first:
+      213: 866521992161612395
+    second: Downed_PlayerHit_SpriteSheet_134
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2852
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b3aa294b065b4e95d96dbf1c2d358
+      internalID: 2699257307734699403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2851
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bb70524d4d3e47b500b097db3f4e2
+      internalID: -6871467901853663987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2850
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f305e2b6bbaa34280cccd11aeacb97
+      internalID: -8835902525206361213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2850
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84905923e4c9da940af4839a5ea1dc07
+      internalID: -6136080289238212479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2850
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656009226fee3b4d805fe0f8bd01559
+      internalID: 7431104386077953660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2850
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259eef32973b7b498eda93b850041c6
+      internalID: 4041490442296887760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2850
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9c5b52684ca84bbfcb1849998cd78
+      internalID: 8780189797565898382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf522f4c33033c949bd87e7bac1bcf5f
+      internalID: 9135244366962148512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2700
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581608185327b74dbc6510597001d29
+      internalID: 4297714977559399666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c616a020efaf4881a5c6b6189ddad
+      internalID: -4660816626986636320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4894497c46794d9ceebe99164d7fc
+      internalID: 8071650372951319792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e967285b72a88469c10bda0d0bf46e
+      internalID: 5788098679290439597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa649bc40f373f44e828de3d2c4213b0
+      internalID: 790696074720952566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2700
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870862df2fcf8cb4f9dfc9cac6f4d1ee
+      internalID: 651688065301665125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2551
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b85b78c0d4d0747979f00ac92b7378
+      internalID: 5471592956961986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2550
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c77586c8348b4488320257ae79547a
+      internalID: 1894259237226409791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2550
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52aed5212d5c44498b36276a5de2a01
+      internalID: -5829210882976442655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2550
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ffdb8cbb413dc409a7468fb8830e17
+      internalID: 8378757531459336395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2550
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3dd2130c11fcc4e899f5d358d2c3f3
+      internalID: -1048371638749206405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2550
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf8e57bfcdb1b4e9c919a629f1039c
+      internalID: -2938684665896575335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2550
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e35f2edf100cc449a9df6f75221075
+      internalID: -5948569945262482113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2400
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f488e4944e67b743a850d5ef4f43837
+      internalID: -9167052904217930480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2400
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547a6499e8c5fc488065ba0aa8007a5
+      internalID: -1295681608162916540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2400
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5e6da6a38013499abdab9e68b9ab3
+      internalID: -4982851487870393701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2400
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241223043a3b5848b954a2ad9a0ed8f
+      internalID: 9201015171812763837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2400
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ea756e15738f46a21a7b79d57b44c
+      internalID: 1647117154016435174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2400
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74e44ff79f7dd47ab5b6479780d36a
+      internalID: -1703552309711241200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2400
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91574a5a5fd2743b0c01f74c090c5e
+      internalID: -3820881223555743285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8563d963afe394787dc14d4dfe9cac
+      internalID: -7536001613087113907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2251
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790bc01345fe71048a065b7b655e537a
+      internalID: 3808025932864794851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d3682ee0e7944d84abb5da3426e9e
+      internalID: 7212951139101814614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f583c3ee0d3a744ac923016eb001c0
+      internalID: -5326831102185851623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a21f35f88b3d46bf297b49af26cae
+      internalID: -8828923933223263005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19fdafcb380a34f9552d1674e9f777
+      internalID: 2720184468481289301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2251
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d5511d90263e46b2bb18c2027267c
+      internalID: 5648677372415871787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2100
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4625e37e3504409a0ee441e58c858
+      internalID: -8080463463128198997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2100
+        width: 127
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b719703f1b17b94f9adc0766a6bd94d
+      internalID: 7321955926366649153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2100
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04946c3fb9f843f4f88e6f71e9e9898c
+      internalID: 13987851715831981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2100
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d44da327aa2a014ab069e0555d25b96
+      internalID: 9048439373282425588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2100
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527de837eaf0b14b87af0f723d53ec1
+      internalID: -7521607215008775033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2100
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e8f292a212054695dc5842ef72e59
+      internalID: -3474917837743131687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2100
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8df9bf5b363a488d6496f339734af
+      internalID: -3537767365696245795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1950
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7872fb86013b449ab0ea6e6f0a156e
+      internalID: 5704877088308074078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1950
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d747ffcaffd449848b8d08e9d6cb3
+      internalID: -859950697191760721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1950
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df1ff71249c904898c8660a460658a
+      internalID: -7119903898000469764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1950
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc9982108acb548b33763b8a1f74cb
+      internalID: -3052088707330380934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1950
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf2aaa171cecd458e7daafb0ad156a
+      internalID: -2071413651917496651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1950
+        width: 125
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5c78ad4179faf4d8ab65826ca0cbb7
+      internalID: -2734410561831362520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1950
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b10d0d364f9440ad31ff04dfea2d3
+      internalID: -5741921919017106972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1801
+        width: 123
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad04665c6b981e41af382ce44f1ca6f
+      internalID: 9155975108479010296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1801
+        width: 124
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109bd583e902b914d88fb4ec2c7fa3fe
+      internalID: -4118180167499632885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1801
+        width: 121
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933dd97e3e628945aa4e214803c94eb
+      internalID: 5742982315531843964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1801
+        width: 122
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b09081f83d2404bb7a9bb070ddf545
+      internalID: -875418238294153507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1801
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbec5d1e61e43c488771186419aaa59
+      internalID: 6258767695271753430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1801
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499bb12e17c3eb42a12c7c179b54bb1
+      internalID: -4868339051789746658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1801
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4f096810dedf4bbe768e81999399b
+      internalID: 2981647228361166753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1650
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a69dd80691884c8bca68808da3b35
+      internalID: -3923144677810261309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1650
+        width: 118
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0324d35c7f8a4098eef1e757dd1c6
+      internalID: 5590513423960344066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1650
+        width: 118
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a285e6de74ae3498e0f01443d52c3e
+      internalID: 2413407124725056228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1650
+        width: 117
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb79b786664e9004e813f04a08255d47
+      internalID: 5980331686598286765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1650
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6dd96e491df0f4b8944def64b7f9c1
+      internalID: -5388954416918310956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1650
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432727c443435b74aa2d7d6603d82d8b
+      internalID: -4477618336396776335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1650
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991f6d58a7818640a97b190bfa73b6a
+      internalID: 405136842576758536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1501
+        width: 116
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688f2fbef5aba04388ba672d393995e
+      internalID: 8650213718527318538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1501
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b45bf06b32aad40b9608b5761d2061
+      internalID: 7568249478338870602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1501
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa86a94c1e817c45b4bedc851c9d906
+      internalID: 2871101896640909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1501
+        width: 117
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c512a81f276be45961778bab183c5d
+      internalID: -3531633356479199141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1501
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4f72eda2935e4dba4d5cd75f54038
+      internalID: -3965324047915155200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1501
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e1e807b3ce084898cb70a648209ca
+      internalID: 2137241079817507124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1501
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767205a0776412449f2e185389974d5
+      internalID: 8384122073773761972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1351
+        width: 116
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f2be406a2fba4a86c70a8e80e5214
+      internalID: -6230138553745194574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1351
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cbaea2132a60848b02028a8d38e692
+      internalID: -1416435331709037259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1351
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e183ded36c5b43a9aeb50e8f00aca
+      internalID: -3916655015114272456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1351
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410aa54a967f344f8f6c7e59d01a1bd
+      internalID: 9041644128308236007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1351
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175eea921f01c684fbe5cb5ea78c4980
+      internalID: -255306652514207978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1351
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e636385eb3f204a80863f139d981d8
+      internalID: -3741365223736104896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1351
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227b452ccf871d47808e25583783795
+      internalID: -1435500516860443796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1201
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c3d7291db409498a7a13fea41fda4
+      internalID: -4186697755331923112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1201
+        width: 111
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a14959ef6db424e8d185ed706db85f
+      internalID: -7415483106173368483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1201
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71743c0e2151b5543bfc7c8acfed9a5e
+      internalID: -5997989484514662681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1201
+        width: 107
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e91d37ec488247b339d620771f4f4
+      internalID: -4781143719606292938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1201
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe30d39ca3282409d4ef7d79643f82
+      internalID: 2020038147905041425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1201
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71749ba97b0647b4796a45810f3784b1
+      internalID: -8723566529077590637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1201
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce226cfb823dc847a5e2879bc307cd5
+      internalID: 547491053538451624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1051
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcffacb6914ede41a10ac038b66fc5a
+      internalID: 1492005050055715083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1051
+        width: 101
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b32f8ade97b14487854feefe713e2
+      internalID: -8047287962393108208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1051
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fd156eead9044eb6cb196d8c92ebf
+      internalID: -4006141348181333773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1052
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6ac3cfa8fbd141add9cb0fd6d421d
+      internalID: 5046783289322402816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1052
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2498a044297342f4cab926703d3daeee
+      internalID: -1039362947458240285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1052
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6b765c51097b44a1308a2f326f14d
+      internalID: -8945034397586906169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1052
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70479237ec58c4ea1a4a2b50b4f21f
+      internalID: 4352734323677294779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 902
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4472eed5582d84db17ecc4c2f96fc2
+      internalID: 4659041016965930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 902
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13342ecb6024c40b5800dc74ac3806
+      internalID: -489938763584416681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 902
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a07922945d1ab74e819f8839494710d
+      internalID: 158023271204224680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 902
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810405c53d01464fbea8b32877696b2
+      internalID: 4739917018132645117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 902
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93e2fe20f71a4418fa7c1cf2994bef
+      internalID: 2307961714885073905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 902
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15a8b09386ee8488b446f2abfaea20
+      internalID: -7871973165417084014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 902
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb0d4e17cea9b41be4c7ea691e2e0c
+      internalID: -7883066416299306183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 752
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2710d083307cf47a56870bfd573682
+      internalID: 2929014055943546534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 752
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7d9bc8b9c1c24cb1167b625a6af5f
+      internalID: -5911093034076789681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 752
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f981e9ed05c8454abac4fd258929b7b
+      internalID: 8613507212486102527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 752
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8d60aa44b0e747a0a4dec13d100f8
+      internalID: 6918610013756927033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 752
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ceaaa00a77d14fa2b475fc7a706c8
+      internalID: -7451125008696776302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 752
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63654105ee64dad4eb4d045cf441bdda
+      internalID: 1645589625526604703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 752
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950718a97bcbfb44d9875fc1dc987138
+      internalID: -634633392951530774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 603
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89f726034d6eb4f9a6e48d6597b648
+      internalID: 5577730846709349015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 602
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577cb3a8499fdc47a316aad4251abd7
+      internalID: 5572720010181570037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 603
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4749adcf7c11488c909e59b84a6f5
+      internalID: 3983602673678495140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 603
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf721223fc7b24289c07d435fea185
+      internalID: 359291088858890195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 603
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52892c3a74ab3c499cf43f3a9241fee
+      internalID: -1304979331586270034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 603
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af29c4df3a9be440ab5cff4611db8d7
+      internalID: -6278546915045118328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 603
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2736afaa28444f8326d63a42d19c2
+      internalID: -8344557083428121030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 452
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cceb5fd75ed63e4d9e64d35c13d9904
+      internalID: -4348775411455917339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91604c266e0d6e642a15b159e6cfc0bc
+      internalID: 1499196309317219222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 452
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103fc4575993cc041a239d8b68865cb8
+      internalID: 8486821830543497005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 452
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd20abb9d5f61478631fd71997783b
+      internalID: 3642031614420432210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 452
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8800bc0b2a8b4c93c3f6d925fa8d8
+      internalID: -9024639346702343539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 452
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c42267bb56724a8bd044aade93dd1
+      internalID: 4036249167087446238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 452
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83f30ba1227e9048a681993ea82a009
+      internalID: 5077905557336492371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ff2c420b0ef2438f4b181b66a5fe9
+      internalID: -3169858168448811775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 303
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1b3000097e0146a7e3b098c580a94
+      internalID: 6510319679168746432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 303
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb64c4a353152b1458edcd82d5e04766
+      internalID: 4540327132551547725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 303
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a1612d24a59004b86193dc8ae2a780
+      internalID: -1922019571627006145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 303
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b3ee9f8c515246a9a340b5c9b8c39
+      internalID: -8776448871310921577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 303
+        width: 53
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ca1962b8aa894398d337e3b589e23
+      internalID: 1360359502709257846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 303
+        width: 52
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e3a0cd3f2d9244a0df2fa53cc014a
+      internalID: 2131420783070513200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 153
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9d6b747e25eb41ade5280876e2a9f
+      internalID: 1885677106040902472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52a7f8f98f2cd498c54c401239dccb
+      internalID: 8771103472614720006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 153
+        width: 50
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909a80eff013054ea66d55cade6b5fd
+      internalID: -3068215586261368759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 153
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815a2662d999fe7448f341a8a0a63287
+      internalID: 3507563186445808160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 153
+        width: 46
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18b394187967e4ea28c94f55df43ac
+      internalID: 4619111586593586283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 153
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac31a31efaa3604cbb2a0a95ff7a180
+      internalID: -3651839104461742935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 153
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357b30c19575334bac6d831b1d3dfb1
+      internalID: -7937487511077156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c2ad4f2addfa4785b62e612b21e3f
+      internalID: -4490733334737067606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_PlayerHit_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2959d077709b43894eef52d1925b8
+      internalID: 866521992161612395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fec7d11e6eba6884ca2a73b5e6e981ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

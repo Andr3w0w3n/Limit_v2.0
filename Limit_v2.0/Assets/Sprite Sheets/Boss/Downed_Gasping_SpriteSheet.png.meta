@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: d1ae20ca4f45cfc439fea159e3c7471e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4769916715496077300
+    second: Downed_Gasping_SpriteSheet_0
+  - first:
+      213: 586172170599279401
+    second: Downed_Gasping_SpriteSheet_1
+  - first:
+      213: 5134825232457399475
+    second: Downed_Gasping_SpriteSheet_2
+  - first:
+      213: -8494837541473946333
+    second: Downed_Gasping_SpriteSheet_3
+  - first:
+      213: -8503444509141945109
+    second: Downed_Gasping_SpriteSheet_4
+  - first:
+      213: 6770746151068128625
+    second: Downed_Gasping_SpriteSheet_5
+  - first:
+      213: 9068756700841757980
+    second: Downed_Gasping_SpriteSheet_6
+  - first:
+      213: -812670729943155667
+    second: Downed_Gasping_SpriteSheet_7
+  - first:
+      213: 7248808022328164292
+    second: Downed_Gasping_SpriteSheet_8
+  - first:
+      213: -3678076923704308209
+    second: Downed_Gasping_SpriteSheet_9
+  - first:
+      213: 4303126791437792955
+    second: Downed_Gasping_SpriteSheet_10
+  - first:
+      213: -6443655952727384889
+    second: Downed_Gasping_SpriteSheet_11
+  - first:
+      213: 4731621829900439304
+    second: Downed_Gasping_SpriteSheet_12
+  - first:
+      213: 5133530339624299889
+    second: Downed_Gasping_SpriteSheet_13
+  - first:
+      213: -8342509182756305828
+    second: Downed_Gasping_SpriteSheet_14
+  - first:
+      213: -7256864514914730194
+    second: Downed_Gasping_SpriteSheet_15
+  - first:
+      213: -10282493332034187
+    second: Downed_Gasping_SpriteSheet_16
+  - first:
+      213: -6677178377824137721
+    second: Downed_Gasping_SpriteSheet_17
+  - first:
+      213: -1024327424306731444
+    second: Downed_Gasping_SpriteSheet_18
+  - first:
+      213: 3092482845016006373
+    second: Downed_Gasping_SpriteSheet_19
+  - first:
+      213: 4545691057609719359
+    second: Downed_Gasping_SpriteSheet_20
+  - first:
+      213: 524893510472538271
+    second: Downed_Gasping_SpriteSheet_21
+  - first:
+      213: -5075636549228514648
+    second: Downed_Gasping_SpriteSheet_22
+  - first:
+      213: -7393502045837898171
+    second: Downed_Gasping_SpriteSheet_23
+  - first:
+      213: 6249455478957107526
+    second: Downed_Gasping_SpriteSheet_24
+  - first:
+      213: 3665753285490036870
+    second: Downed_Gasping_SpriteSheet_25
+  - first:
+      213: 3953007536652684147
+    second: Downed_Gasping_SpriteSheet_26
+  - first:
+      213: 4144582898428847805
+    second: Downed_Gasping_SpriteSheet_27
+  - first:
+      213: 8282048713000433320
+    second: Downed_Gasping_SpriteSheet_28
+  - first:
+      213: 2543511085078807033
+    second: Downed_Gasping_SpriteSheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 753
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65fbc49636ee7647a80cbc70df13e5f
+      internalID: 4769916715496077300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 753
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e409ab98a475d4585be0ab2f99cd71
+      internalID: 586172170599279401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 753
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7872df0cbae8a48b1637881af018be
+      internalID: 5134825232457399475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 753
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd65e3ffa8b4b41abadd67b786805a
+      internalID: -8494837541473946333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 753
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f602ec06ade54296c0a2dd598301f
+      internalID: -8503444509141945109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 603
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a7c4fb95fa9f478efc669051d8a57
+      internalID: 6770746151068128625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 603
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92367e23c6dff10448bc4ec18f6ab56f
+      internalID: 9068756700841757980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 603
+        width: 88
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceffcbaf0bccfde49b4ebc4dbf8b1577
+      internalID: -812670729943155667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 603
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6fb7edd8c26049bdf9789c5d2e1ed
+      internalID: 7248808022328164292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 603
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd30bd163c234f448023d6ca7d92ba3
+      internalID: -3678076923704308209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 453
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8138b193362c45ad8a5088878b376
+      internalID: 4303126791437792955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 452
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53faba1f44923044bbd9d26ecb5e72e0
+      internalID: -6443655952727384889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 452
+        width: 88
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6aff426bd41b245a3a3925adb56b6b
+      internalID: 4731621829900439304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 452
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1b17dae6f7814198701431fc901de
+      internalID: 5133530339624299889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 453
+        width: 88
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f36e279461f045b5cc3bbbc8a98e1
+      internalID: -8342509182756305828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 303
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b00cb95c3955640b5b71bc7f575e01
+      internalID: -7256864514914730194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 303
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c34f1413ed7c469ad7fc55c897054
+      internalID: -10282493332034187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 302
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b7036c9eb019648841e09a681bfd68
+      internalID: -6677178377824137721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 302
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d43f33d2025f64eb3a55aca43a9007
+      internalID: -1024327424306731444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 302
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130c26bbe157f44580067c82251825a
+      internalID: 3092482845016006373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 153
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f82a9a66fc2a645a43416bddf8282c
+      internalID: 4545691057609719359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 153
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bbdf87cc528be4f8b41d6c38005edf
+      internalID: 524893510472538271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 153
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ef9ec4d2da1e47b232b9b582a9b0c
+      internalID: -5075636549228514648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 153
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a9ff96d4ce7045b02547e7a60e664
+      internalID: -7393502045837898171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 153
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e57105ee4bc874db32bba5ff70cc80
+      internalID: 6249455478957107526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77cdf6bdc3b3a64788917bcc9e4f7f2
+      internalID: 3665753285490036870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e7ee4d5f70f4438a7beecc52a95ea
+      internalID: 3953007536652684147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93857e97d2c6e9043b8d93d95359b055
+      internalID: 4144582898428847805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ead55eb3ce73349b77d39cc3d7b77f
+      internalID: 8282048713000433320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_Gasping_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84055a440035bec4d86a2ad59966c114
+      internalID: 2543511085078807033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf1f4e5c498d8fb40b6afadc650b684a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

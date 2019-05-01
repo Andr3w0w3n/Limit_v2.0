@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 8de09a6395ab10048a921fd67f5f295d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3776516222499098352
+    second: Downed_GettingUp_SpriteSheet_0
+  - first:
+      213: -2763002575758100323
+    second: Downed_GettingUp_SpriteSheet_1
+  - first:
+      213: -2095088648658383380
+    second: Downed_GettingUp_SpriteSheet_2
+  - first:
+      213: 8490311276238674752
+    second: Downed_GettingUp_SpriteSheet_3
+  - first:
+      213: -4779126645998412364
+    second: Downed_GettingUp_SpriteSheet_4
+  - first:
+      213: -672865969142294785
+    second: Downed_GettingUp_SpriteSheet_5
+  - first:
+      213: 5597992994923560281
+    second: Downed_GettingUp_SpriteSheet_6
+  - first:
+      213: -8852937544547128705
+    second: Downed_GettingUp_SpriteSheet_7
+  - first:
+      213: 2419889509637905578
+    second: Downed_GettingUp_SpriteSheet_8
+  - first:
+      213: 921212151781464101
+    second: Downed_GettingUp_SpriteSheet_9
+  - first:
+      213: 7296775184334925555
+    second: Downed_GettingUp_SpriteSheet_10
+  - first:
+      213: 8756462180288726426
+    second: Downed_GettingUp_SpriteSheet_11
+  - first:
+      213: -5589157424302249989
+    second: Downed_GettingUp_SpriteSheet_12
+  - first:
+      213: 1382192391292964596
+    second: Downed_GettingUp_SpriteSheet_13
+  - first:
+      213: 1850776188221484139
+    second: Downed_GettingUp_SpriteSheet_14
+  - first:
+      213: -4716095916055093362
+    second: Downed_GettingUp_SpriteSheet_15
+  - first:
+      213: 5223183996113270017
+    second: Downed_GettingUp_SpriteSheet_16
+  - first:
+      213: 7153428466991043986
+    second: Downed_GettingUp_SpriteSheet_17
+  - first:
+      213: 7520825558609434956
+    second: Downed_GettingUp_SpriteSheet_18
+  - first:
+      213: 5821248704713334435
+    second: Downed_GettingUp_SpriteSheet_19
+  - first:
+      213: -609499136892720908
+    second: Downed_GettingUp_SpriteSheet_20
+  - first:
+      213: 6890059569821661713
+    second: Downed_GettingUp_SpriteSheet_21
+  - first:
+      213: -9184542904554078155
+    second: Downed_GettingUp_SpriteSheet_22
+  - first:
+      213: -3421134216950619510
+    second: Downed_GettingUp_SpriteSheet_23
+  - first:
+      213: -6485940650304176107
+    second: Downed_GettingUp_SpriteSheet_24
+  - first:
+      213: 261972995174865641
+    second: Downed_GettingUp_SpriteSheet_25
+  - first:
+      213: -7946667306548372595
+    second: Downed_GettingUp_SpriteSheet_26
+  - first:
+      213: -6523197580778564932
+    second: Downed_GettingUp_SpriteSheet_27
+  - first:
+      213: 396296236287982746
+    second: Downed_GettingUp_SpriteSheet_28
+  - first:
+      213: 8084935885971620746
+    second: Downed_GettingUp_SpriteSheet_29
+  - first:
+      213: -3202889128908373496
+    second: Downed_GettingUp_SpriteSheet_30
+  - first:
+      213: 444377328041620006
+    second: Downed_GettingUp_SpriteSheet_31
+  - first:
+      213: 2050414124895284326
+    second: Downed_GettingUp_SpriteSheet_32
+  - first:
+      213: -3263548654414520065
+    second: Downed_GettingUp_SpriteSheet_33
+  - first:
+      213: 1363266883671092215
+    second: Downed_GettingUp_SpriteSheet_34
+  - first:
+      213: -3212171160395144302
+    second: Downed_GettingUp_SpriteSheet_35
+  - first:
+      213: 5810457728505069917
+    second: Downed_GettingUp_SpriteSheet_36
+  - first:
+      213: -2926648160134501102
+    second: Downed_GettingUp_SpriteSheet_37
+  - first:
+      213: -3672281405954517236
+    second: Downed_GettingUp_SpriteSheet_38
+  - first:
+      213: 611403340867104316
+    second: Downed_GettingUp_SpriteSheet_39
+  - first:
+      213: -6234237256500851283
+    second: Downed_GettingUp_SpriteSheet_40
+  - first:
+      213: 7950415519536169454
+    second: Downed_GettingUp_SpriteSheet_41
+  - first:
+      213: -6020404753915931781
+    second: Downed_GettingUp_SpriteSheet_42
+  - first:
+      213: 3635573513469357720
+    second: Downed_GettingUp_SpriteSheet_43
+  - first:
+      213: 8770753174603363769
+    second: Downed_GettingUp_SpriteSheet_44
+  - first:
+      213: 8527010014402828875
+    second: Downed_GettingUp_SpriteSheet_45
+  - first:
+      213: -6308483115766445694
+    second: Downed_GettingUp_SpriteSheet_46
+  - first:
+      213: 7961046119930118661
+    second: Downed_GettingUp_SpriteSheet_47
+  - first:
+      213: 3818110508947342518
+    second: Downed_GettingUp_SpriteSheet_48
+  - first:
+      213: 727692139508591693
+    second: Downed_GettingUp_SpriteSheet_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 903
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9eaa9187c47bf4c9c39e96722fa4ce
+      internalID: 3776516222499098352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 904
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39afa635cb3c73744a775ea45cf06f01
+      internalID: -2763002575758100323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 904
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c2a03eda19ff44bbf227d83f7a356
+      internalID: -2095088648658383380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 904
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd13abf90bae4043988725f07c8f589
+      internalID: 8490311276238674752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 904
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc32c1cb4109a4d85ed31f06416f79
+      internalID: -4779126645998412364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 904
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd69d14d16a3849839ccf0e79a328a
+      internalID: -672865969142294785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 904
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52497ee420bba544bcd994d38ca4d1b
+      internalID: 5597992994923560281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 904
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca2fd9f39a99b49b5d51c450ecdea7
+      internalID: -8852937544547128705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9f47218e57874786dcedfe2ef679a
+      internalID: 2419889509637905578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 754
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686383b8594aadd4f8a7e75866a86b4d
+      internalID: 921212151781464101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 754
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2263c812b9b5fe748a9a639cbe17c34c
+      internalID: 7296775184334925555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 754
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897cedad91c6d841b6d8071fc8e8d68
+      internalID: 8756462180288726426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 754
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a7f380430a734b906caf0080b8297
+      internalID: -5589157424302249989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 754
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f0b29b6efaee14fb28ba2cc6c8e09e
+      internalID: 1382192391292964596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 754
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59301869018ab6f498897349523b137b
+      internalID: 1850776188221484139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 754
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1154ce00946e91b48894adc605ae18ea
+      internalID: -4716095916055093362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 604
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19603192324ad4db1544b1a2a09265
+      internalID: 5223183996113270017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 604
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1d2a6834a6824a9d0d99e37e7b1db
+      internalID: 7153428466991043986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 604
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454cca85f91e1c4795a8d4926d86fc5
+      internalID: 7520825558609434956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 604
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838af5f30f5d1d640b4b60f4e084ebaf
+      internalID: 5821248704713334435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 604
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14937f33243c74eb2798d79fcd191d
+      internalID: -609499136892720908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 604
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b4f415e8407848a3b0f18b9bd54d7
+      internalID: 6890059569821661713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 604
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df10b49bda123949860721bb63fa294
+      internalID: -9184542904554078155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 604
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ee29a7e882a8439b1953e319bb6e8
+      internalID: -3421134216950619510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 454
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab0df0b20b7bb4fbf644e2475c2263
+      internalID: -6485940650304176107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 454
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa48762f72f1a2418c7d6186ec1986f
+      internalID: 261972995174865641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 454
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f52d5446dd2148b5ee9ff7d56df1e
+      internalID: -7946667306548372595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 454
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3aa750b59a2749bf2665b12669785
+      internalID: -6523197580778564932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 454
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d255b415c1545429fe423241fb43f4
+      internalID: 396296236287982746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 454
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56aaabaa17f7d049992dde34342d262
+      internalID: 8084935885971620746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 454
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991e32169310834daaf7e24230e9fa1
+      internalID: -3202889128908373496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 454
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5ccba5c3215e488ab9f1f3046f8cf
+      internalID: 444377328041620006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 304
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b84d11a9ff24448e7b9de5fd3a37c
+      internalID: 2050414124895284326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 304
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66267832f6a7741a37f3faec4e56f1
+      internalID: -3263548654414520065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 304
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a115347c5c63d4ebafb22a4c27b2dd
+      internalID: 1363266883671092215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 304
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30005edb27fdc46bb205df2f5e0708
+      internalID: -3212171160395144302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 304
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809cae6e0f5ff72409e7d500985b8528
+      internalID: 5810457728505069917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 304
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6d7c6b25fe7f4cab238dc64ad55fc
+      internalID: -2926648160134501102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 304
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd311255f4abe146969a82ee5dd6d95
+      internalID: -3672281405954517236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 304
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f5fdf0d8dc4549bfbc9835c453652
+      internalID: 611403340867104316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 153
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a81213caefdf149a06425f323652f8
+      internalID: -6234237256500851283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 154
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b93b77e8429f2478c9b517e54bf8a3
+      internalID: 7950415519536169454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 154
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776cb193c46533e4c997061f82e00cc7
+      internalID: -6020404753915931781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 154
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da33f7d7999ea54c99c8377e4ecc64d
+      internalID: 3635573513469357720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 154
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0fee114230c4419da30cb16d0e25b
+      internalID: 8770753174603363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 154
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79170927e43271488d00876bc355889
+      internalID: 8527010014402828875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 154
+        width: 44
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b7cdfa4e9aaf438773a4c8fc1d3e6
+      internalID: -6308483115766445694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 154
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4008bdc0681ae14cadd284958ce8e19
+      internalID: 7961046119930118661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 47
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001b4f7355ff1dc4a8b0a85119a3bb21
+      internalID: 3818110508947342518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Downed_GettingUp_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d922997b3fff4014e9b536d475c3441a
+      internalID: 727692139508591693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 336b76f2e4d9c074ab112e68fe2ab836
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

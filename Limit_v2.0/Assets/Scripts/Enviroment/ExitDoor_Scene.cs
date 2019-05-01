@@ -7,12 +7,11 @@ using UnityEngine.SceneManagement;
 public class ExitDoor_Scene : MonoBehaviour
 {
     private bool canExit = false;
-    private Animator anim;
     public int numOfCollectionsReq = 4;
     // Start is called before the first frame update
     void Start()
     {
-        anim = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
@@ -21,7 +20,6 @@ public class ExitDoor_Scene : MonoBehaviour
         if(GameController.instance.collected >= numOfCollectionsReq)
         {
             canExit = true;
-            anim.SetBool("canExit", true);
         }
     }
 

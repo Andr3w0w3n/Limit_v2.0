@@ -23,6 +23,9 @@ public class BossBehavior : MonoBehaviour
     private float throwAttackRunTime = 95.0f / 60.0f;
     private float throwTimer = 0;
     private bool thrown = false;
+    private bool haveHit = false;
+    private bool leaveDown = false;
+    private bool missedHit = false;
 
     //Major attack public variables
     public float sideWaitTime = 2;
@@ -31,10 +34,12 @@ public class BossBehavior : MonoBehaviour
     public float attackRightXPos;
     public float attackLeftXPos;
     public float jumpForce = 10;
-    public float stamina = 100;
     public float drainedWaitTime = 5;
     public float midOrGroundAttackDuration = 5;
     public GameObject smallDebris;
+    public float downTime = 10;
+    public float playerHitTime = 134.0f / 60.0f;
+    public float gettingUpTime = 59.0f / 60.0f;
 
     //major attack viewfinders
     public Viewfinder rightView;
@@ -69,7 +74,9 @@ public class BossBehavior : MonoBehaviour
     private Vector2 movementVector;
     private Animator anim;
     private Rigidbody2D rb2d;
-    
+    public float stamina = 100;
+    public float health = 100;
+
 
 
     // Start is called before the first frame update
@@ -96,7 +103,50 @@ public class BossBehavior : MonoBehaviour
         //drained stage (after stamina drain)
         if (isDrained)
         {
-            
+            activeTimer = true;
+            anim.SetBool("isDowned", true);
+            gameObject.tag = "downBoss";
+            if (playerHitBoss && !haveHit && !missedHit)
+            {
+                activeTimer = false;
+                timer = 0;
+                anim.SetTrigger("playerHit");
+                health -= 25;
+                stamina = 100;
+                haveHit = true;
+            }
+            if(timer >= downTime && !haveHit && !missedHit)
+            {
+                anim.SetTrigger("timeUp");
+                stamina = 100;
+                missedHit = true;
+            }
+            if (haveHit && !missedHit)
+            {
+                activeTimer = true;
+                if(timer >= playerHitTime)
+                {
+                    leaveDown = true;
+                }
+            }
+            if (missedHit && !haveHit)
+            {
+                activeTimer = true;
+                if (timer >= gettingUpTime)
+                {
+                    leaveDown = true;
+                }
+            }
+            if (leaveDown)
+            {
+                activeTimer = false;
+                timer = 0;
+                leaveDown = false;
+                print("did we go in here?");
+                anim.SetBool("isDowned", false);
+                isDrained = false;
+                haveHit = false;
+            }
         }
 
         //attacking Stage
@@ -109,7 +159,6 @@ public class BossBehavior : MonoBehaviour
             {
                 if(timer >= throwTimer && !thrown)
                 {
-                    print("do we get in here?");
                     thrown = true;
                     if (playerAtLeft)
                     {
@@ -135,6 +184,7 @@ public class BossBehavior : MonoBehaviour
                     if (stamina <= 0)
                     {
                         isDrained = true;
+                        haveHit = false;
                     }
                 }
             }
@@ -161,6 +211,7 @@ public class BossBehavior : MonoBehaviour
                         if (stamina <= 0)
                         {
                             isDrained = true;
+                            haveHit = false;
                         }
                     }
                 }
@@ -199,6 +250,7 @@ public class BossBehavior : MonoBehaviour
                         if (stamina <= 0)
                         {
                             isDrained = true;
+                            haveHit = false;
                         }
                     }
                 }
@@ -333,6 +385,7 @@ public class BossBehavior : MonoBehaviour
             aIMovement();
 
             //Value Updating based off of map viewfinders
+            gameObject.tag = "Boss";
             if (groundView.playerInFrame && rightView.playerInFrame && midView)
             {
                 playerAtGround = true;
