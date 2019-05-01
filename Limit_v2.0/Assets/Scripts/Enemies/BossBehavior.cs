@@ -47,6 +47,7 @@ public class BossBehavior : MonoBehaviour
     private bool basicAttack = false;
     private GameObject attackVines;
     private float timeSpeed;
+    private float prevXPos;
 
     //AI and basic attack public variables
     public float movementSpeed = 5;
@@ -73,6 +74,7 @@ public class BossBehavior : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
+        prevXPos = transform.position.x;
     }
 
     // Update is called once per frame
@@ -95,7 +97,7 @@ public class BossBehavior : MonoBehaviour
             activeTimer = true;
             if (drainedRebound)
             {
-                if(timer >= drainedReboundTime)
+                if (timer >= drainedReboundTime)
                 {
                     print("im rebounding for drainage");
                     drainedRebound = false;
@@ -104,15 +106,17 @@ public class BossBehavior : MonoBehaviour
                     isDrained = false;
                 }
             }
-            else if(timer >= drainedWaitTime)
+            else if (timer >= drainedWaitTime)
             {
                 drainedRebound = true;
                 stamina = 100;
                 timer = 0;
-            }else if (playerHitBoss)
+            }
+            else if (playerHitBoss)
             {
-                
-            }else
+
+            }
+            else
             {
                 print("something is broken in drained");
             }
@@ -126,6 +130,10 @@ public class BossBehavior : MonoBehaviour
             if (isInPosition)
             {
                 //play animation and wait until animation is over, once animation is over, then
+                if (anim.GetCurrentAnimatorStateInfo(0).IsName("Idle") || anim.GetCurrentAnimatorStateInfo(0).IsName("Walking"))
+                {
+                    isAttacking = false;
+                }
                 if (stamina <= 0)
                 {
                     isDrained = true;
@@ -223,6 +231,7 @@ public class BossBehavior : MonoBehaviour
             }
             else if (playerAtMid)
             {
+                anim.SetBool("Sprint", true);
                 print("here??");
                 if (transform.position.x > attackMidXPos + 1)
                 {
@@ -234,6 +243,8 @@ public class BossBehavior : MonoBehaviour
                 }
                 else
                 {
+                    anim.SetBool("Sprint", false);
+                    anim.SetBool("AttackSide", true);
                     isAttacking = true;
                     movementVector = new Vector2(0, 0);
                     isStartingAttacking = false;
@@ -241,6 +252,7 @@ public class BossBehavior : MonoBehaviour
             }
             else if (playerAtGround) //may make this so it does not have a designated position
             {
+                anim.SetBool("Sprint", true);
                 print("how about here??");
                 if (transform.position.x > attackGroundXPos + 1)
                 {
@@ -252,6 +264,8 @@ public class BossBehavior : MonoBehaviour
                 }
                 else
                 {
+                    anim.SetBool("Sprint", false);
+                    anim.SetBool("Charge", true);
                     movementVector = new Vector2(0, 0);
                     isAttacking = true;
                     isStartingAttacking = false;
@@ -268,22 +282,16 @@ public class BossBehavior : MonoBehaviour
         {
             print("Get out of my swamp");
             activeTimer = true;
-            if(playerAtLeft || playerAtRight)
+            if (playerAtLeft || playerAtRight)
             {
                 if (timer >= sideWaitTime)
                 {
                     activeTimer = false;
                     timer = 0;
-                    if (playerAtLeft)
-                    {
-                        isStartingAttacking = true;
-                    }
-                    else
-                    {
-                        isStartingAttacking = true;
-                    }
+                    isStartingAttacking = true;
                 }
-            }else if (playerAtMid)
+            }
+            else if (playerAtMid)
             {
                 if (timer >= groundWaitTime)
                 {
@@ -291,9 +299,10 @@ public class BossBehavior : MonoBehaviour
                     timer = 0;
                     isStartingAttacking = true;
                 }
-            }else if (playerAtGround)
+            }
+            else if (playerAtGround)
             {
-                if(timer >= midWaitTime)
+                if (timer >= midWaitTime)
                 {
                     activeTimer = false;
                     timer = 0;
@@ -309,7 +318,7 @@ public class BossBehavior : MonoBehaviour
             aIMovement();
 
             //Value Updating based off of map viewfinders
-            if (groundView.playerInFrame && rightView.playerInFrame && midView)
+            /*if (groundView.playerInFrame && rightView.playerInFrame && midView)
             {
                 print("i be seeing where u are, ur at ground");
                 playerAtGround = true;
@@ -400,7 +409,9 @@ public class BossBehavior : MonoBehaviour
                 playerAtRight = false;
                 playerAtLeft = false;
             }
+        */
         }
+        prevXPos = transform.position.x;
     }
 
     //true means fast, false means slow
@@ -435,6 +446,17 @@ public class BossBehavior : MonoBehaviour
     private void aIMovement()
     {
         print("vroom vroom");
+        print("pre x pos: " + prevXPos);
+        print("x pos: " + transform.position.x);
+        if((prevXPos < transform.position.x+0.5f) && (prevXPos > transform.position.x-0.5f))
+        {
+            anim.SetBool("Walk", true);
+        }
+        else
+        {
+            print("made it out of walk");
+            anim.SetBool("Walk", false);
+        }
         if (basicAttackViewfinderScript.playerInFrame == true)
         {
             basicAttack = true;
@@ -471,7 +493,7 @@ public class BossBehavior : MonoBehaviour
         else if (basicAttack)
         {
             print("poke poke");
-            //anim.SetBool("Charge", true);
+            //anim.SetBool("BasicCharge", true);
 
             timer += Time.fixedDeltaTime;
             if (timer >= basicAttackChargeTime * GameController.instance.attackSpeed)
@@ -482,7 +504,7 @@ public class BossBehavior : MonoBehaviour
         }
         else
         {
-            //anim.SetBool("Charge", false);
+            //anim.SetBool("BasicCharge", false);
             timer = 0;
 
             if (GameController.instance.playerPos.position.x < transform.position.x)
