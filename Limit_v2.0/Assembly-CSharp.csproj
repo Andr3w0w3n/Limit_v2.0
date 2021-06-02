@@ -72,7 +72,7 @@
     <Compile Include="Assets\Scripts\Enemies\BossBehavior.cs" />
     <Compile Include="Assets\Scripts\Enemies\MeteorBehavior.cs" />
     <Compile Include="Assets\Scripts\Enviroment\MeteorSpawner.cs" />
-    <Compile Include="Assets\Scripts\UI\StanimaBar.cs" />
+    <Compile Include="Assets\Scripts\UI\StaminaBar.cs" />
     <Compile Include="Assets\Scripts\Enemies\Debris.cs" />
     <Compile Include="Assets\Scripts\Enemies\SmallDebrisBehavior.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />

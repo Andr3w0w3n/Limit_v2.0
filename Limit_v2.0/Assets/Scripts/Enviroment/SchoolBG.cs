@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Timers;
 using UnityEngine;
 
 public class SchoolBG : MonoBehaviour
@@ -17,9 +18,12 @@ public class SchoolBG : MonoBehaviour
     private Vector3 spawnPoint3;
     private Vector2 spawnPoint2;
     private float timeSinceLast;
-    public float spawnRate;
+    public float maxSpawnRate;
+    private float spawnRate = 0;
     private int currentEnemy;
     private Animator animationBG;
+    private float timer;
+    public float spawnTimeIncrement;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +31,7 @@ public class SchoolBG : MonoBehaviour
         backgroundHorizontalLength = backgroundCollider.size.x;
         animationBG = GetComponent<Animator>();
         currentEnemy = 0;
+
     }
 
     // Update is called once per frame
@@ -50,8 +55,17 @@ public class SchoolBG : MonoBehaviour
                 enemyCheckArr[i] = true;
             }
         }
-        
-        
+
+        //update spawn rate slowly, making the spawn rate go up slowly
+        if(spawnRate >= maxSpawnRate - 1 && (timer >= spawnTimeIncrement))
+        {
+            spawnRate = maxSpawnRate;
+        }
+        else if(timer >= spawnTimeIncrement)
+        {
+            spawnRate++;
+            timer = 0f;
+        }
 
         //check to see if all enemies still exist in the game, if not, fill the array
         for(int i = 0; i<enemySpawnerArr.Length; i++)
@@ -94,6 +108,15 @@ public class SchoolBG : MonoBehaviour
         else if (playerTransform.position.x < transform.position.x - (backgroundHorizontalLength / 2 + backgroundHorizontalLength * 2))
         {
             repositionBG(false);
+        }
+    }
+
+    void Update()
+    {
+        //to prevent updating when no longer needed (is this useless?)
+        if(timer !< 0)
+        {
+            timer += Time.deltaTime;
         }
     }
     //method for repositioning the bg

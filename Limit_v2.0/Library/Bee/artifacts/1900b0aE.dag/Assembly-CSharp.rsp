@@ -365,7 +365,7 @@
 "Assets/Scripts/QTE/StarBehavior.cs"
 "Assets/Scripts/ScaredStudentCollectable.cs"
 "Assets/Scripts/UI/HealthBar.cs"
-"Assets/Scripts/UI/StanimaBar.cs"
+"Assets/Scripts/UI/StaminaBar.cs"
 "Assets/Scripts/UI/TimeBar.cs"
 -langversion:8.0
 
