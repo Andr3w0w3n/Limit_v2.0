@@ -12,7 +12,17 @@ You play as a student suddenly thrown into a world of chaos as meteors rain down
 
 
 
-For Builds:
+Builds:
+
+- Alpha_1.0
+	- First level with minor graphical and mechanical bugs
+	- First Quick Time Event with two actions
+- Beta_1.1
+	-First Level with minor graphical and mechanical bugs
+	-First Quick Time Event
+	-Second Level with minor mechanical bugs and need of graphical update
+	-Second Quick Time Event
+	-Boss Level with severe bugs and inability to finish boss level
 
 Launch Game Instructions:
 
@@ -45,16 +55,5 @@ S - Drop Off Elevated Platform
 
 ESC - Exit Game
 
-Build Guide:
 
-- Alpha_1.0
-	- First level with minor graphical and mechanical bugs
-	- First Quick Time Event with two actions
-- Beta_1.1
-	-First Level with minor graphical and mechanical bugs
-	-First Quick Time Event
-	-Second Level with minor mechanical bugs and need of graphical update
-	-Second Quick Time Event
-	-Boss Level with severe bugs and inability to finish boss level
 =======
->>>>>>> parent of 55b21b5d (Update README.md)
