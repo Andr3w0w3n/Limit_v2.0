@@ -31,7 +31,7 @@ Game Controls (Keyboard):
 
 SPACE - Jump
 
-L - Time Slow/Reset
+E - Time Slow/Reset
 
 D - Move Right
 

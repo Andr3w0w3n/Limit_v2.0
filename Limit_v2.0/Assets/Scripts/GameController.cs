@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     public float lifeValue = 100;
-    public float stanimaValue = 25;
+    public float staminaValue = 25;
     public float timeValue = 50;
     public bool isAlive = true;
     public static GameController instance;
@@ -75,7 +75,7 @@ public class GameController : MonoBehaviour
             }
 
             //time slow activation
-            if (Input.GetKeyDown(KeyCode.L))
+            if (Input.GetKeyDown(KeyCode.E))
             {
                 timeSlowActive = !timeSlowActive;
             }

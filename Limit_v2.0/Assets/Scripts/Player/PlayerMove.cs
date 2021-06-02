@@ -40,6 +40,14 @@ public class PlayerMove : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        
+
+
+    }
+
+    //had to move the input for movement to Update as fixed update was not responding fast enough for info on the player input
+    void Update()
+    {
         //get movementInput
         moveInput = Input.GetAxis("Horizontal");
 
@@ -52,14 +60,15 @@ public class PlayerMove : MonoBehaviour
             ghost.makeGhost = false;
         }
         
+        //check to see if the player is damaged
         if (!(animate.GetCurrentAnimatorStateInfo(0).IsName("Damage")))
         {
             if (isInAir)
             {
-               
+
                 if (lastYPos > transform.position.y)
                 {
-                    isInAir = false;
+                    isInAir = false; 
                     animate.SetBool("isJumping", false);
                     isFalling = true;
                     animate.SetBool("isFalling", true);
@@ -67,37 +76,37 @@ public class PlayerMove : MonoBehaviour
             }
             if (isFalling)
             {
-                if((((float)((int)(lastYPos*100)))/100) == (((float)((int)(transform.position.y*100))/100)))
+                if ((((float)((int)(lastYPos * 100))) / 100) == (((float)((int)(transform.position.y * 100)) / 100)))
                 {
                     isFalling = false;
                     animate.SetBool("isFalling", false);
                 }
             }
             //check to see if sprinting
-            if (Input.GetKey(KeyCode.LeftShift) && GameController.instance.stanimaValue > 0)
+            if (Input.GetKey(KeyCode.LeftShift) && GameController.instance.staminaValue > 0)
             {
-                sprintSpeed = userSprintSpeed*moveInput;
+                sprintSpeed = userSprintSpeed * moveInput;
                 if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
                 {
-                    GameController.instance.stanimaValue -= .1f;
-                }              
+                    GameController.instance.staminaValue -= .1f;
+                }
             }
             else
             {
-                if(GameController.instance.stanimaValue < 25)
+                if (GameController.instance.staminaValue < 25)
                 {
-                    GameController.instance.stanimaValue += .03f;
+                    GameController.instance.staminaValue += .03f;
                 }
                 sprintSpeed = 0;
             }
-            
+
             //movement code
             float positionTwo = transform.position.x;
             Vector2 jump = new Vector2(0, verticalForce);
-            rb2d.velocity = new Vector2(moveInput * horizontalForce+sprintSpeed, rb2d.velocity.y);
+            rb2d.velocity = new Vector2(moveInput * horizontalForce + sprintSpeed, rb2d.velocity.y);
 
             //swap character look position and animator change
-            
+
             if (Input.GetKey(KeyCode.D))
             {
                 animate.SetBool("isRunning", true);
@@ -123,18 +132,17 @@ public class PlayerMove : MonoBehaviour
         else
         {
             //move the character slightly when damaged
-            rb2d.velocity = new Vector2(damageMovement/tr.localScale.x*-1, 0);
+            rb2d.velocity = new Vector2(damageMovement / tr.localScale.x * -1, 0);
         }
 
-        if(transform.position.x != lastXPos || transform.position.y != lastYPos)
+        //updating last positions for animation
+        if (transform.position.x != lastXPos || transform.position.y != lastYPos)
         {
             lastYPos = transform.position.y;
             lastXPos = transform.position.x;
         }
-
-
     }
-    
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Ground")
