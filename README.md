@@ -1,5 +1,6 @@
 # Limit
 Main Game project for CSCI 391
+<<<<<<< HEAD
 
 This 2D platformer game was created using Unity Game Engine. All code and assets were made by Andrew Owen.
 
@@ -55,3 +56,5 @@ Build Guide:
 	-Second Level with minor mechanical bugs and need of graphical update
 	-Second Quick Time Event
 	-Boss Level with severe bugs and inability to finish boss level
+=======
+>>>>>>> parent of 55b21b5d (Update README.md)
