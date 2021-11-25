@@ -48,9 +48,12 @@ public class DebrisSpawner : MonoBehaviour
                 timer = 0;
             }
         }
-        if (spawnedDebris.transform.position.y < -7)
+        if(spawnedDebris != null)
         {
-            Destroy(spawnedDebris);
-        }
+            if (spawnedDebris.transform.position.y < -7)
+            {
+                Destroy(spawnedDebris);
+            }
+        } 
     }
 }
